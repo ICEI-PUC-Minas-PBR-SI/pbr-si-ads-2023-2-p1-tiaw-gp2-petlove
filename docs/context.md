@@ -1,21 +1,10 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Bem-vindo ao PetLove, onde a tecnologia encontra a paixão por pets. Facilitando conexões entre animais da mesma raça, o PetLove é mais do que um site de relacionamentos para pets; é uma plataforma que promove acasalamentos responsáveis e também proporciona espaço para adoção, doação e interações entre tutores. Junte-se a nós para criar laços duradouros entre animais e amantes de pets, redefinindo a maneira como compartilhamos o amor pelos nossos companheiros de quatro patas.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O PetLove surge como uma resposta a um problema persistente no mundo dos animais de estimação: a dificuldade em encontrar companheiros adequados para acasalamento ou interações sociais entre animais da mesma raça. Até agora, essa busca frequentemente envolve esforços extensos por parte dos tutores, com limitado acesso a uma rede de possíveis parceiros para seus pets. O PetLove entra em cena para simplificar esse processo, fornecendo uma plataforma digital onde tutores podem facilmente encontrar animais compatíveis da mesma raça, promovendo assim acasalamentos responsáveis e relacionamentos saudáveis. Além disso, o PetLove também oferece uma solução para a crescente necessidade de adoção e doação de pets, proporcionando um espaço centralizado para conectar tutores que buscam lares amorosos para seus animais. Ao abordar essas lacunas, o PetLove visa aprimorar o bem-estar animal, facilitando conexões significativas entre tutores e seus pets, ao mesmo tempo em que promove práticas conscientes e afetuosas
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -24,28 +13,25 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo central do PetLove é criar uma plataforma que facilite e promova conexões significativas entre tutores de animais da mesma raça. Isso inclui viabilizar acasalamentos responsáveis, permitir interações sociais entre animais compatíveis e oferecer um espaço para adoção e doação de pets. O site busca não apenas fortalecer os laços entre os animais, mas também criar uma comunidade vibrante de amantes de pets, compartilhando experiências, conhecimentos e histórias. Com um foco na responsabilidade e bem-estar animal, o PetLove aspira a tornar-se um destino confiável onde os tutores podem encontrar parceiros ideais para seus pets, enquanto promove práticas éticas e amorosas no cuidado animal.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A justificativa por trás do PetLove é ancorada na necessidade de melhorar e facilitar a vida dos animais de estimação e de seus tutores. Com a crescente demanda por acasalamentos responsáveis e pela busca de companheiros compatíveis para os pets, muitos tutores enfrentam desafios ao tentar encontrar parceiros adequados. Além disso, a questão da adoção e doação de animais também é um ponto crítico, visto que muitos pets estão em busca de novos lares amorosos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O PetLove surge para resolver esses problemas, proporcionando uma plataforma conveniente e segura para tutores encontrarem animais da mesma raça para acasalamento, interações sociais e até mesmo para novos lares. Ao centralizar essas necessidades em um único espaço online, o PetLove oferece uma solução eficaz para os desafios enfrentados pelos amantes de animais de estimação. Além disso, o site promove a responsabilidade e o cuidado animal, contribuindo para o bem-estar dos pets e incentivando práticas que fortaleçam os laços humanos-animais.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do PetLove abrange uma ampla gama de indivíduos apaixonados por animais de estimação e interessados em proporcionar uma vida melhor para seus companheiros peludos. Isso inclui tutores de animais da mesma raça que desejam facilitar acasalamentos responsáveis e encontros para seus pets. Além disso, o site também atrai pessoas que buscam expandir as interações sociais de seus animais, promovendo um ambiente saudável e enriquecedor.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O PetLove também é direcionado a tutores que estão considerando a doação ou adoção de pets, oferecendo uma plataforma para encontrar lares amorosos e responsáveis para animais necessitados. Por fim, o site atrai amantes de animais em geral, independentemente de serem tutores ou não, que desejam participar de uma comunidade dedicada ao bem-estar animal e ao compartilhamento de experiências relacionadas a pets. Em resumo, o PetLove se destina a todas as pessoas que valorizam a importância dos animais de estimação em suas vidas e estão em busca de maneiras inovadoras de cuidar, compartilhar e interagir com eles.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
