@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/c1_paze5)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11591976&assignment_repo_type=AssignmentRepo)
-# Título do Projeto
+# PETLOVE
 
 `CURSO: Sistemas de Informação/Análise e Desenvolvimento de Sistemas`
 
@@ -8,14 +8,14 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Bem-vindo ao PetLove, onde a tecnologia encontra a paixão por pets. Facilitando conexões entre animais da mesma raça, o PetLove é mais do que um site de relacionamentos para pets; é uma plataforma que promove acasalamentos responsáveis e também proporciona espaço para adoção, doação e interações entre tutores. Junte-se a nós para criar laços duradouros entre animais e amantes de pets, redefinindo a maneira como compartilhamos o amor pelos nossos companheiros de quatro patas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Caio Henrique Coelho Silva
+* João Pedro Gomes Machado
+* João Pedro Carmo Lopes
+* Victor Hugo de Santana
 * Nome completo do aluno 5
 
 ## Orientador
