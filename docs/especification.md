@@ -1,24 +1,29 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Definição do Problema:
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O problema a ser resolvido é a falta de uma plataforma centralizada que ofereça produtos, serviços e informações para donos de animais de estimação de maneira conveniente e abrangente. Muitos proprietários de animais de estimação enfrentam dificuldades para encontrar produtos adequados, agendar serviços e acessar informações confiáveis sobre cuidados e saúde para seus animais.
+
+Ideia de Solução:
+
+O "Petlove" é uma plataforma online que reúne uma ampla variedade de produtos para animais de estimação, serviços profissionais e conteúdo educativo em um só lugar. Através do site, os usuários podem criar perfis para seus animais, receber recomendações personalizadas, agendar serviços, acessar informações de qualidade sobre cuidados com animais de estimação e realizar compras com facilidade.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Nome: Carlos
+Idade: 35 anos
+Profissão: Criador de cães da raça Bulldog Inglês
+Localização: Rio de Janeiro, Brasil
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Carlos é um criador experiente e apaixonado por cães da raça Bulldog Inglês. Ele tem uma pequena criação em sua casa e está empenhado em manter e melhorar as características da raça. Ele entende a importância de encontrar parceiros adequados para acasalamento a fim de garantir descendentes saudáveis e com boas características genéticas. Carlos busca uma plataforma que facilite a conexão com outros criadores e donos de cães da mesma raça para fins de acasalamento
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Nome: Amanda
+Idade: 28 anos
+Profissão: Designer gráfica
+Localização: São Paulo, Brasil
+
+Amanda é uma jovem profissional que trabalha como designer gráfica em uma agência de publicidade. Ela é solteira, adora animais e vive uma vida ativa. Ela está sempre em busca de novas experiências e maneiras de conhecer pessoas que compartilhem de seus interesses. Amanda acredita que um animal de estimação pode ser uma excelente companhia e está considerando adotar um cachorro para ter uma razão extra para passar mais tempo ao ar livre.
+
 
 ## Histórias de Usuários
 
