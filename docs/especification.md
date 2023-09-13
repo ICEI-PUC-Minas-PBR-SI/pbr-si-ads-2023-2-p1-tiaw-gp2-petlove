@@ -31,10 +31,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|TUTOR               | Um sistema que consiga achar um    | Ser uma companheira para a procriação 
-                       companheiro para meu animal        | do meu animal
-             |
-|TUTOR               | Um sistema que ache filhotes para doação   | Ser um amigo para o meu gato
+|TUTOR               |Encontrar um cachorro da mesma raça | Para procriação
+|TUTOR               |Achar um cachorro de estimação.     | Ter uma companhia  
+             
+
 
 
 "Com o desejo de encontrar uma parceira adequada para Alex, Bruna está em busca de uma Golden Retriever fêmea da mesma idade, com a esperança de que os dois possam desenvolver um vínculo especial e, quem sabe, iniciar uma nova geração de Goldens em sua família. Se a união de Alex e sua futura companheira for bem-sucedida, Bruna está ansiosa para receber um filhote em sua casa, dando-lhes o carinho e o lar amoroso que merecem.
