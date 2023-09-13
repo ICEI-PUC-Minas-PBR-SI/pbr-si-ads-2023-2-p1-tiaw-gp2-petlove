@@ -34,7 +34,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+Com o desejo de encontrar uma parceira adequada para Alex, Bruna está em busca de uma Golden Retriever fêmea da mesma idade, com a esperança de que os dois possam desenvolver um vínculo especial e, quem sabe, iniciar uma nova geração de Goldens em sua família. Se a união de Alex e sua futura companheira for bem-sucedida, Bruna está ansiosa para receber um filhote em sua casa, dando-lhes o carinho e o lar amoroso que merecem.
+
+Allan Souza, o destemido bombeiro de 32 anos, anseia por uma conexão especial entre eles, enchendo sua casa de felicidade e afeto. Allan aguarda com grande entusiasmo a possibilidade de um novo integrante felino, colocando-se à disposição para receber um gatinho e proporcionar a ele o amor e um lar acolhedor que todo gatinho merece. Nessa busca, Allan está empenhado em enriquecer a existência de seus amados felinos.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
