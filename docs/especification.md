@@ -31,8 +31,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|TUTOR               |Encontrar um cachorro da mesma raça | Para procriação
-|TUTOR               |Achar um cachorro de estimação.     | Ter uma companhia  
+|CRIADOR             |Encontrar um cachorro da mesma raça | Para procriação
+|TUTOR               |Achar um cachorro de estimação      | Ter uma companhia  
              
 
 
