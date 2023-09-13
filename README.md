@@ -20,6 +20,7 @@ Bem-vindo ao PetLove, onde a tecnologia encontra a paixão por pets. Facilitando
 * Camila Moreira Pessoa
 * Maria Luiza Mendes Matos
 * Nathan Araujo Godinho
+* Samuel Santos Maciel 
 
 ## Orientador
 
