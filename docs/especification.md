@@ -27,7 +27,20 @@ Amanda é uma jovem profissional que trabalha como designer gráfica em uma agê
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Para Carlos, o Criador de Cães da Raça Bulldog Inglês:
+
+Carlos é um criador experiente e apaixonado por cães da raça Bulldog Inglês.
+Ele tem uma pequena criação em casa e está empenhado em manter e melhorar as características da raça.
+Carlos entende a importância de encontrar parceiros adequados para acasalamento a fim de garantir descendentes saudáveis e com boas características genéticas.
+Ele busca uma plataforma que facilite a conexão com outros criadores e donos de cães da mesma raça para fins de acasalamento.
+Para Amanda, a Designer Gráfica:
+
+Amanda é uma jovem profissional solteira que adora animais e vive uma vida ativa.
+Ela está sempre em busca de novas experiências e maneiras de conhecer pessoas que compartilhem de seus interesses.
+Amanda acredita que um animal de estimação pode ser uma excelente companhia e está considerando adotar um cachorro para ter uma razão extra para passar mais tempo ao ar livre.
+Com base nessas personas e em suas histórias de usuário, você pode priorizar o desenvolvimento de funcionalidades que atendam às necessidades específicas de Carlos e Amanda. Isso pode incluir recursos como pesquisa avançada de criadores ou tutores, sistema de mensagens para facilitar a comunicação entre os usuários, perfis de usuário detalhados que destacam informações relevantes sobre os cachorros, como raça, pedigree e características genéticas, e muito mais.
+
+Certifique-se de que as funcionalidades do seu aplicativo sejam intuitivas e fáceis de usar para acomodar uma variedade de usuários, desde criadores experientes como Carlos até pessoas que estão procurando adotar um animal de estimação, como Amanda. Isso proporcionará uma experiência positiva para todos os usuários. Se você tiver mais perguntas ou precisar de orientações adicionais, estou aqui para ajudar.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -36,12 +49,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
              
 
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+
 
 ## Requisitos
 
