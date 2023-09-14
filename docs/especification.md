@@ -61,8 +61,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| ----|
 |RF-001| Elaborar backend do site  | ALTA |Caio Coelho  |Caio Coelho
 |RF-002| Elaborar Frontend do site   | ALTA |Joao Pedro|
-|RF-002| Emitir um relatório de tarefas no mês  | MÉDIA |Maria|
-|RF-002| Apresentar Projeto| MÉDIA |Guilherme Queiroz|
+|RF-003| Emitir um relatório de tarefas no mês  | MÉDIA |Maria|
+|RF-004| Apresentar Projeto| MÉDIA |Guilherme Queiroz|
 
 
 
