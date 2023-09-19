@@ -59,10 +59,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Elaborar backend do site  | ALTA |Caio Coelho  |Caio Coelho
-|RF-002| Elaborar Frontend do site   | ALTA |Joao Pedro|
-|RF-003| Emitir um relatório de tarefas no mês  | MÉDIA |Maria|
-|RF-004| Apresentar Projeto| MÉDIA |Guilherme Queiroz|
+|RF-001|Sistema deverá cadastrar e criar um perfil no site disponibilizando os dados do usuario | ALTA |Caio Coelho  |Caio Coelho
+|RF-002|Usuario poderá filtrar perfis e escolher qual pet de seu interesse| ALTA |Joao Pedro|
+|RF-003|Usuario podera escolher qual meio e tipo de topico escolher, entre adoção, troca de informações, vendas e encontrar um pet para acasalar  | MÉDIA |Maria|
+|RF-004|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA |Guilherme Queiroz|
+|RF-005|Sistema de Reservas de pet agendado por Data e Localidade::| MÉDIA |Guilherme Queiroz
+|RF-006|Geração de Recibos e Comprovantes de Pagamento apos a compra ::| MÉDIA |Guilherme Queiroz
+|RF-007|Opção de bate papo entra tutores:| MÉDIA |Guilherme Queiroz
+|RF-008|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA |Guilherme Queiroz
+|RF-009|O sistema deverá fornecer segurança no armazenamento dos dados| MÉDIA |Guilherme Queiroz
 
 
 
@@ -70,8 +75,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A plataforma deve garantiar o armazenamento dos dados do usuario dentro de um banco de dados | MÉDIA | 
+|RNF-002| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA | 
+|RNF-003| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA |
+|RNF-004| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
