@@ -75,10 +75,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A plataforma deve garantiar o armazenamento dos dados do usuario dentro de um banco de dados | MÉDIA | 
-|RNF-002| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA | 
-|RNF-003| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA |
+|RNF-001| A plataforma deve garantiar o armazenamento dos dados do usuario dentro de um banco de dados | ALTO| 
+|RNF-002| Interface do sistema deverá interagir com usuario|  BAIXA | 
+|RNF-003| A plataforma devera ter uma integração entra dados fornecidos e recomendações| MÉDIA |
 |RNF-004| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA |
+|RNF-005| A plataforma devera seguir as leis de adoção e compra e venda de animais|  BAIXA |
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
