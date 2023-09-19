@@ -59,15 +59,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001|Sistema deverá cadastrar e criar um perfil no site disponibilizando os dados do usuario | ALTA |Caio Coelho  |Caio Coelho
-|RF-002|Usuario poderá filtrar perfis e escolher qual pet de seu interesse| ALTA |Joao Pedro|
+|RF-001|Sistema deverá cadastrar e criar um perfil no site disponibilizando os dados do usuario | ALTA ||
+|RF-002|Usuario poderá filtrar perfis e escolher qual pet de seu interesse| ALTA ||
 |RF-003|Usuario podera escolher qual meio e tipo de topico escolher, entre adoção, troca de informações, vendas e encontrar um pet para acasalar  | MÉDIA |Maria|
-|RF-004|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA |Guilherme Queiroz|
-|RF-005|Sistema de Reservas de pet agendado por Data e Localidade::| MÉDIA |Guilherme Queiroz
-|RF-006|Geração de Recibos e Comprovantes de Pagamento apos a compra ::| MÉDIA |Guilherme Queiroz
-|RF-007|Opção de bate papo entra tutores:| MÉDIA |Guilherme Queiroz
-|RF-008|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA |Guilherme Queiroz
-|RF-009|O sistema deverá fornecer segurança no armazenamento dos dados| MÉDIA |Guilherme Queiroz
+|RF-004|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA ||
+|RF-005|Sistema de Reservas de pet agendado por Data e Localidade::| MÉDIA |
+|RF-006|Geração de Recibos e Comprovantes de Pagamento apos a compra ::| MÉDIA |
+|RF-007|Opção de bate papo entra tutores:| MÉDIA |
+|RF-008|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA |
+|RF-009|O sistema deverá fornecer segurança no armazenamento dos dados| MÉDIA |
 
 
 
@@ -79,23 +79,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Interface do sistema deverá interagir com usuario|  BAIXA | 
 |RNF-003| A plataforma devera ter uma integração entra dados fornecidos e recomendações| MÉDIA |
 |RNF-004| A plataforma deve oferecer um alto trafego mesmo em momentos de grandes demandas|  BAIXA |
-|RNF-005| A plataforma devera seguir as leis de adoção e compra e venda de animais|  BAIXA |
+|RNF-005| A plataforma devera seguir as leis de adoção e compra e venda de animais| ALTA |
 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -103,12 +89,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto de imediato não precisará de custo |
+|02| Todo projeto deverá ser postado no Github       |
+|03| No momento será desenvolvido apenas web        |
+|04| Será necessario uso das linguagens HTML, CSS e Java Script        |
+|05| Será necessario uso de banco de dados para armazenar os dados e filtrar informações        |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
