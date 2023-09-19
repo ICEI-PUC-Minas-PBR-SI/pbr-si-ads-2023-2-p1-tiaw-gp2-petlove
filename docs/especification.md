@@ -42,9 +42,9 @@ Para Amanda, a Designer Gráfica:
 Amanda é uma jovem profissional solteira que adora animais e vive uma vida ativa.
 Ela está sempre em busca de novas experiências e maneiras de conhecer pessoas que compartilhem de seus interesses.
 Amanda acredita que um animal de estimação pode ser uma excelente companhia e está considerando adotar um cachorro para ter uma razão extra para passar mais tempo ao ar livre.
-Com base nessas personas e em suas histórias de usuário, você pode priorizar o desenvolvimento de funcionalidades que atendam às necessidades específicas de Carlos e Amanda. Isso pode incluir recursos como pesquisa avançada de criadores ou tutores, sistema de mensagens para facilitar a comunicação entre os usuários, perfis de usuário detalhados que destacam informações relevantes sobre os cachorros, como raça, pedigree e características genéticas, e muito mais.
 
-Certifique-se de que as funcionalidades do seu aplicativo sejam intuitivas e fáceis de usar para acomodar uma variedade de usuários, desde criadores experientes como Carlos até pessoas que estão procurando adotar um animal de estimação, como Amanda. Isso proporcionará uma experiência positiva para todos os usuários. Se você tiver mais perguntas ou precisar de orientações adicionais, estou aqui para ajudar.
+
+
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
