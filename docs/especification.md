@@ -24,6 +24,10 @@ Localização: São Paulo, Brasil
 
 Amanda é uma jovem profissional que trabalha como designer gráfica em uma agência de publicidade. Ela é solteira, adora animais e vive uma vida ativa. Ela está sempre em busca de novas experiências e maneiras de conhecer pessoas que compartilhem de seus interesses. Amanda acredita que um animal de estimação pode ser uma excelente companhia e está considerando adotar um cachorro para ter uma razão extra para passar mais tempo ao ar livre.
 
+Nome: Ana
+Idade: 30 anos
+Descrição:
+Ana é uma profissional de 30 anos que vive em uma cidade movimentada. Ela é uma amante de animais apaixonada, tem um cachorro chamado Max e está sempre em busca de maneiras de proporcionar a ele uma vida feliz e ativa. Ana usa seu tempo livre para passear com Max no parque, frequentar eventos de adoção de animais e se envolver em grupos de amantes de cachorros.
 
 ## Histórias de Usuários
 
