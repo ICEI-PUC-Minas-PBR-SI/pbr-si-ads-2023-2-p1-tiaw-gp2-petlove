@@ -9,7 +9,7 @@
 
 
 
-"BEM VINDO A LOVEPET"
+-BEM VINDO A LOVEPET
 
 *Visitante Acessa o Site
 
