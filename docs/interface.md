@@ -27,6 +27,20 @@ Ele tem as opcões de:
 5º Falar conosco
 6º Procurar por raça especifica de Pet
 
+*Caso visitante escolha petinder ele poderá escolher pet seu animal irá encontrar, alem de ter contato com os intrutores via chat
+
+*Caso visitante escolha doação ele poderá doar seu pet especificando raça, nome, idade e curiosidades do mesmo
+
+*Caso visitante escolha adoção o visitante poderá escolher qual pet ele irá adotar, alem de poder pesquisar por raça, nome e ver o banco de cachorros que estão cadastrado para adoção
+
+*Caso visitante escolha alterar sua conta, ele poderá alterar seus dados cadastrados e excluir sua conta se necessario
+
+*Caso visitante escolha falar conosco ele terá um campo onde poderá enviar sua duvida ou feedback e enviar para o nosso suporte ao cliente, onde brevimente será resolvido
+
+
+
+
+
 
 
 
