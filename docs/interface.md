@@ -41,6 +41,10 @@ A tela de cadastro é composta por elementos adicionais que aprimoram a usabilid
 
 
 
+
+
+
+
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 ### Exemplo
