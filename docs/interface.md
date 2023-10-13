@@ -7,6 +7,25 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853472/7e3e31ed-6c63-4754-8039-637d2893d369)
 
+*Visitante Acessa o Site
+
+*Visitantes chegam à página inicial do site. (primeira tela)
+ E encontra designer intuitivo com interação com usuario, onde poderar começar a sua interação com o site
+
+*Visitantes deverá fazer o login no site ou cadastrar uma conta para iniciar
+Ele deve criar uma conta em nosso sistema para ficar mais usual para o mesmo
+
+*Visitante após criar seu cadastro deverar logar em sua conta.
+Após cadastrar conta visitante ira logar na mesma
+
+*Visitantes irá selecionar o que procura no site
+Ele tem as opcões de:
+1º Adoção
+2º Doar
+3º Petinder
+4º Alterar conta/excluir conta
+5º Falar conosco
+6º Procurar por raça especifica de Pet
 
 
 
