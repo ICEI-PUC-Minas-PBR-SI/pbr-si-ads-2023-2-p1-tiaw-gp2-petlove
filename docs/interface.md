@@ -5,7 +5,7 @@
 
 ## User Flow
 
-![Exemplo de Wireframe](img/image.jpg)
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853472/7e3e31ed-6c63-4754-8039-637d2893d369)
 
 
 ## User Flow 3
