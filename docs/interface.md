@@ -7,13 +7,17 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853472/7e3e31ed-6c63-4754-8039-637d2893d369)
 
+"BEM VINDO A LOVEPET"
+
+
+
 *Visitante Acessa o Site
 
-*Visitantes chegam à página inicial do site. (primeira tela)
- E encontra designer intuitivo com interação com usuario, onde poderar começar a sua interação com o site
+*Visitantes chegam à página inicial do site. (primeira tela),
+ e encontra designer intuitivo com interação com usuario, onde poderar começar a sua interação com o site
 
-*Visitantes deverá fazer o login no site ou cadastrar uma conta para iniciar
-Ele deve criar uma conta em nosso sistema para ficar mais usual para o mesmo
+*Visitantes deverá fazer o login no site ou cadastrar uma conta para iniciar,
+ele deve criar uma conta em nosso sistema para ficar mais usual para o mesmo
 
 *Visitante após criar seu cadastro deverar logar em sua conta.
 Após cadastrar conta visitante ira logar na mesma
