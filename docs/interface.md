@@ -17,8 +17,8 @@
 
 > 
 
-## Wireframes
-                 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/4c4577ad-09df-4f6c-a9b1-142378b42dbe)
+## Wirefram
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/4c4577ad-09df-4f6c-a9b1-142378b42dbe)
 **Tela Inicial:**
 
 A tela inicial do site é a porta de entrada para uma experiência centrada em animais, e sua composição reflete essa essência. A paleta de cores rosa coral é cuidadosamente escolhida para transmitir uma sensação de leveza e genuinidade, transparecendo sentimentos de carinho e cuidado. Uma imagem de um  cachorro recebe os visitantes, fornecendo uma visão calorosa e acolhedora para o site. Essa imagem não apenas introduz o tema, mas também desempenha um papel na comodidade visual, aliviando a visão dos usuários e tornando a navegação mais agradável e intrigante. A disposição dos elementos na tela inicial é projetada para proporcionar praticidade e versatilidade na movimentação do usuário, direcionando-o com facilidade ao botão "Começar", que convida os visitantes a explorar o mundo de informações e recursos disponíveis no site, criando uma experiência de usuário envolvente.
