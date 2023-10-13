@@ -26,6 +26,8 @@ A tela inicial do site é a porta de entrada para uma experiência centrada em a
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/6ffa8fa1-5798-47f5-af8f-d14d4bc5e40d)
 
+**Tela de Login:**
+
 A tela de login mantém a consistência visual com a paleta de cores rosa coral, estendendo a atmosfera amigável e reconfortante do site a todas as etapas da navegação. Para garantir uma autenticação segura, a estrutura de login é posicionada à direita da tela, proporcionando uma experiência de uso prática e intuitiva. Cada detalhe é cuidadosamente projetado para tornar a navegação fácil e eficiente, desde a disposição dos campos de entrada até as cores dos botões . A consistência visual nessa etapa é de extrema importância, uma vez que permite aos visitantes identificar facilmente os elementos interativos, construindo uma experiência de usuário confiável e coesa, respeitando os padrões de design e segurança.
 
 
