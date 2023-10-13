@@ -5,8 +5,7 @@
 
 ## User Flow
 
-blob:https://web.whatsapp.com/67ba7993-1f51-45e8-b0ec-1e07988adb15
-
+![Exemplo de Wireframe](img/image.jpg)
 
 
 ## User Flow 3
