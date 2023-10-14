@@ -74,7 +74,8 @@ A tela de cadastro é composta por elementos adicionais que aprimoram a usabilid
 
 
 ![Imagem do WhatsApp de 2023-10-14 à(s) 11 36 13_b65cbab1](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/9d4c8588-d1ab-40ec-a072-a178296e28ce)
-Aba LovePet:
+**Aba LovePet:**
+
 Na aba de seleção, os usuários veem uma única foto de um animal de estimação no centro da tela. Essa foto é o destaque da página.
 Abaixo da foto, há um espaço para uma breve descrição do animal. Isso pode incluir informações como o nome, idade, raça, temperamento e qualquer outra informação relevante que ajude os usuários a conhecer o animal.
 Dois botões abaixo da descrição do animal:
@@ -85,7 +86,31 @@ Os usuários podem deslizar para a esquerda ou direita para ver perfis de outros
 Quando um usuário clica em "Aceitar" para um animal, uma notificação é enviada ao dono do animal, indicando o interesse. Isso permite que o dono entre em contato com o usuário interessado para discutir a adoção em potencial.
 
 
+![Imagem do WhatsApp de 2023-10-13 à(s) 00 11 04_95b585f7](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/1ed827d3-9987-40d2-940d-442fe8986b0e)
+**Tela de inicio:**
 
+Menu Superior (Canto Superior Direito) contém os links de navegação, como "Início", "Sobre Nós", "Contato" e outros.
+Barra de Pesquisa localizada no centro superior da tela, onde os usuários podem inserir palavras-chave para iniciar a pesquisa e facilitar a navegação do site. Um texto indicativo, como "O que você procura?", pode ser exibido dentro da barra de pesquisa.
+Botões de Escolha:
+Abaixo da barra de pesquisa, exibem-se três botões de escolha:
+"Petinder" -  funcionalidade relacionada a encontrar companheiros para animais de estimação.
+"Adotar Pet" - Direciona os usuários para a seção de adoção de animais.
+"Criar Pet" - criar perfis de animais para adoção ou outras funcionalidades.
+Perfis de Animais:
+Abaixo dos botões de escolha, são exibidos perfis de animais com informações sobre animais disponíveis para adoção. Cada perfil pode conter detalhes como fotos, nomes, raças, idades, descrições e botões de ação para saber mais sobre um animal específico.
+
+
+![Imagem do WhatsApp de 2023-10-14 à(s) 12 00 51_9ab0adcf](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/67c888a7-902c-463b-9140-2d9e88485f3d)
+**Aba "Adote um Pet":**
+
+Na aba "Adote um Pet", os usuários podem visualizar vários perfis de animais disponíveis para adoção.
+Uma foto do animal fica bem no centro da tela, sendo o ponto focal da página.
+À esquerda e à direita da foto, há setas de navegação que permitem que os usuários percorram os diferentes perfis de animais.
+Abaixo da foto do animal, os usuários encontram uma seção de descrição.
+Essa seção contém informações sobre o animal, como o nome do pet, raça, idade e algumas curiosidades sobre o animal. As curiosidades podem incluir detalhes sobre seu temperamento, história ou peculiaridades.
+Os usuários podem usar as setas de navegação (à esquerda e à direita da foto) para passar para o próximo ou o anterior perfil de animal.
+Isso facilita a navegação e a escolha do pet que mais combina com o usuário.
+Para facilitar a comunicação entre o usuário interessado e o doador, há um sistema de mensagens integrado. Os usuários podem clicar no perfil do animal e enviar uma mensagem para o doador para discutir a possibilidade de adoção e organizar os detalhes.
 
 
 
