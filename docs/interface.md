@@ -90,7 +90,7 @@ Quando um usuário clica em "Aceitar" para um animal, uma notificação é envia
 **Tela de inicio:**
 
 Menu Superior (Canto Superior Direito) contém os links de navegação, como "Início", "Sobre Nós", "Contato" e outros.
-Barra de Pesquisa localizada no centro superior da tela, onde os usuários podem inserir palavras-chave para iniciar a pesquisa e facilitar a navegação do site. Um texto indicativo, como "O que você procura?", pode ser exibido dentro da barra de pesquisa.
+Barra de Pesquisa localizada no centro superior da tela, onde os usuários podem inserir palavras-chave para iniciar a pesquisa e facilitar a navegação do site. 
 Botões de Escolha:
 Abaixo da barra de pesquisa, exibem-se três botões de escolha:
 "Petinder" -  funcionalidade relacionada a encontrar companheiros para animais de estimação.
