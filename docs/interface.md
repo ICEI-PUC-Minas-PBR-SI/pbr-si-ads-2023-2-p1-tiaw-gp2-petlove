@@ -73,7 +73,16 @@ A tela de login mantém a consistência visual com a paleta de cores rosa coral,
 A tela de cadastro é composta por elementos adicionais que aprimoram a usabilidade, permitindo aos visitantes fornecer informações essenciais e consentir com o processo de cadastro. Novamente, a consistência visual desempenha um papel fundamental nesse processo, garantindo que o preenchimento do cadastro seja fácil e intuitivo. O site demonstra seu compromisso com a segurança e privacidade dos visitantes ao oferecer informações sobre como os dados serão tratados e protegidos. Nesta etapa, os visitantes também são informados sobre a comunidade de tutores e  animais presentes no site, enfatizando a importância de criar uma rede de contatos segura e confiável. A experiência de cadastro é projetada para ser segura e acolhedora, demonstrando o cuidado e a responsabilidade do site com seus usuários.
 
 
-
+![Imagem do WhatsApp de 2023-10-14 à(s) 11 36 13_b65cbab1](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/9d4c8588-d1ab-40ec-a072-a178296e28ce)
+Aba LovePet:
+Na aba de seleção, os usuários veem uma única foto de um animal de estimação no centro da tela. Essa foto é o destaque da página.
+Abaixo da foto, há um espaço para uma breve descrição do animal. Isso pode incluir informações como o nome, idade, raça, temperamento e qualquer outra informação relevante que ajude os usuários a conhecer o animal.
+Dois botões abaixo da descrição do animal:
+"Aceitar" (em verde): Se o usuário se interessa por esse animal, ele pode clicar no botão "Aceitar". Ao fazer isso, uma notificação é enviada ao dono do animal para que possam entrar em contato e conversar mais sobre a possibilidade de adoção.
+"Rejeitar" (em vermelho): Se o usuário não se interessa por esse animal, ele pode clicar no botão "Rejeitar". Ao fazer isso, o perfil desse animal desaparece, e um novo animal é apresentado para o usuário.
+Navegação entre Perfis:
+Os usuários podem deslizar para a esquerda ou direita para ver perfis de outros animais, tornando a experiência de navegação contínua.
+Quando um usuário clica em "Aceitar" para um animal, uma notificação é enviada ao dono do animal, indicando o interesse. Isso permite que o dono entre em contato com o usuário interessado para discutir a adoção em potencial.
 
 
 
