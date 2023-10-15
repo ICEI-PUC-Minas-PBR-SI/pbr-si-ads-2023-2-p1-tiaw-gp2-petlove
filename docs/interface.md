@@ -115,28 +115,26 @@ Isso facilita a navegação e a escolha do pet que mais combina com o usuário.
 Para facilitar a comunicação entre o usuário interessado e o doador, há um sistema de mensagens integrado. Os usuários podem clicar no perfil do animal e enviar uma mensagem para o doador para discutir a possibilidade de adoção e organizar os detalhes.
 
 
-![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 28_39f62204](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/fc0aa829-94ae-40ec-9ca5-6051a8b01609)
-
-**Fale Conosco**
-
-A aba "Fale Conosco" no site "PetLove" é o canal de comunicação direta entre a plataforma e seus usuários, projetado para oferecer suporte e esclarecimentos em relação a todas as questões relacionadas a animais de estimação, adoção, cuidados, ou até mesmo sugestões e comentários. Nesta seção, os visitantes podem encontrar um formulário de contato intuitivo e amigável, permitindo que eles enviem mensagens, dúvidas ou preocupações de maneira conveniente. A equipe dedicada do "PetLove" está pronta para fornecer suporte excepcional, tornando a experiência do usuário uma prioridade, garantindo que todas as questões sejam tratadas de maneira eficaz e que os visitantes se sintam valorizados e apoiados em sua jornada de cuidar de seus animais de estimação.
-
-
-![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 31_094d80a1](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/66fa84e0-a5c3-4d40-b4f2-402a0e4ddea6)
+![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 31_094d80a1](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/ddfe01e1-9b4e-4d9c-8f18-5271f666de3a)
 
 **Alterar Senha**
 
 A página de "Alterar Senha" no site é um exemplo de como a UX pode ser primordial em um processo crítico. Focando na intuitividade, essa página é projetada para que os usuários possam facilmente atualizar suas senhas com o mínimo de esforço e confusão. Ela é acompanhada de instruções simples e claras, os campos para inserir a senha antiga e a nova senha são bem destacados. A experiência do usuário é agradável e sem problemas.. No geral, essa página de "Alterar Senha" exemplifica o compromisso do site com a segurança das contas dos usuários e uma experiência do usuário eficaz e descomplicada.
 
 
-![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 29_59169f21](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/08f93c55-f4e9-4f08-9dd9-9bfc35020b87)
+![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 29_59169f21](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/5b8a9bcf-a844-4ed4-b2bd-c99ee567b966)
 
-**Cadastro de doação do animal**
+**Cadastro de doação de animais**
 
-A tela de cadastro para a doação do animal é uma das partes mais essenciais do nosso aplicativo, projetada para permitir que usuários forneçam informações abrangentes sobre o pet que desejam oferecer para adoção. Nesse espaço, os usuários podem inserir detalhes vitais, como o nome do animal, sua idade, raça e curiosidades sobre o mesmo, como temperamento e personalidade, e incluindo fotos do animal, criando um perfil detalhado que ajuda a encontrar o lar ideal para o animal. Com um processo de inscrição amigável e intuitivo, essa tela facilita que os responsáveis pelos animais compartilhem informações valiosas, aumentando as chances de encontrar um lar amoroso para os animais necessitados.
+A tela de cadastro para a doação do animal é uma das partes mais essenciais do nosso aplicativo, projetada para permitir que usuários forneçam informações abrangentes sobre o pet que desejam oferecer para adoção. Nesse espaço, os usuários podem inserir detalhes vitais, como o nome do animal, sua idade, raça e curiosidades sobre o mesmo, como temperamento e personalidade, e incluindo fotos do animal, criando um perfil detalhado que ajuda a encontrar o lar ideal para o animal. Com um processo de inscrição amigável e intuitivo, essa tela facilita que os responsáveis pelos animais compartilhem informações valiosas, aumentando as chances de encontrar um lar amoroso para os animais necessitados.
 
 
+![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 28_39f62204](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/312388c7-2689-4dc2-b443-9f3dbcc9e468)
 
+**Fale Conosco**
+
+
+A aba "Fale Conosco" no site "PetLove" é o canal de comunicação direta entre a plataforma e seus usuários, projetado para oferecer suporte e esclarecimentos em relação a todas as questões relacionadas a animais de estimação, adoção, cuidados, ou até mesmo sugestões e comentários. Nesta seção, os visitantes podem encontrar um formulário de contato intuitivo e amigável, permitindo que eles enviem mensagens, dúvidas ou preocupações de maneira conveniente. A equipe dedicada do "PetLove" está pronta para fornecer suporte excepcional, tornando a experiência do usuário uma prioridade, garantindo que todas as questões sejam tratadas de maneira eficaz e que os visitantes se sintam valorizados e apoiados em sua jornada de cuidar de seus animais de estimação.
 
 
 
