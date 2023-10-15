@@ -131,9 +131,9 @@ A página de "Alterar Senha" no site é um exemplo de como a UX pode ser primord
 
 ![Imagem do WhatsApp de 2023-10-12 à(s) 23 08 29_59169f21](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/73302566/08f93c55-f4e9-4f08-9dd9-9bfc35020b87)
 
-**Doação de Animal**
+**Cadastro de doação do animal**
 
-A tela de “Doação de animal” é uma parte essencial de uma plataforma de adoção de animais, projetada para permitir que usuários forneçam informações abrangentes sobre o pet que desejam oferecer para adoção. Nesse espaço, os usuários podem inserir detalhes vitais, como o nome do animal, sua idade, raça e curiosidades sobre o mesmo, como temperamento e personalidade, e incluindo fotos do animal, criando um perfil detalhado que ajuda a encontrar o lar ideal para o animal. Com um processo de inscrição amigável e intuitivo, essa tela facilita que os responsáveis pelos animais compartilhem informações valiosas, aumentando as chances de encontrar um lar amoroso para os animais necessitados.
+A tela de cadastro para a doação do animal é uma das partes mais essenciais do nosso aplicativo, projetada para permitir que usuários forneçam informações abrangentes sobre o pet que desejam oferecer para adoção. Nesse espaço, os usuários podem inserir detalhes vitais, como o nome do animal, sua idade, raça e curiosidades sobre o mesmo, como temperamento e personalidade, e incluindo fotos do animal, criando um perfil detalhado que ajuda a encontrar o lar ideal para o animal. Com um processo de inscrição amigável e intuitivo, essa tela facilita que os responsáveis pelos animais compartilhem informações valiosas, aumentando as chances de encontrar um lar amoroso para os animais necessitados.
 
 
 
