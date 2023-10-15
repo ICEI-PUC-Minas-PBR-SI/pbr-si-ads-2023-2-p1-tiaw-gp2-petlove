@@ -136,6 +136,12 @@ A página de "Alterar Senha" no site é um exemplo de como a UX pode ser primord
 A tela de “Doação de animal” é uma parte essencial de uma plataforma de adoção de animais, projetada para permitir que usuários forneçam informações abrangentes sobre o pet que desejam oferecer para adoção. Nesse espaço, os usuários podem inserir detalhes vitais, como o nome do animal, sua idade, raça e curiosidades sobre o mesmo, como temperamento e personalidade, e incluindo fotos do animal, criando um perfil detalhado que ajuda a encontrar o lar ideal para o animal. Com um processo de inscrição amigável e intuitivo, essa tela facilita que os responsáveis pelos animais compartilhem informações valiosas, aumentando as chances de encontrar um lar amoroso para os animais necessitados.
 
 
+
+
+
+
+
+
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 ### Exemplo
