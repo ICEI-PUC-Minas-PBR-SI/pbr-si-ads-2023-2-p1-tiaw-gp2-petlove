@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adote um Pet</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Adote um Pet</h1>
+    </header>
+    <main style="margin-top: 20px;">
+        <div class="carousel">
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 1"><h2>Pet 1</h2><p>Idade: 2 anos</p><p>Raça: Labrador</p><p>Sexo: Macho</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 2"><h2>Pet 2</h2><p>Idade: 1 ano</p><p>Raça: Golden Retriever</p><p>Sexo: Fêmea</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 3"><h2>Pet 3</h2><p>Idade: 3 anos</p><p>Raça: Poodle</p><p>Sexo: Fêmea</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 4"><h2>Pet 4</h2><p>Idade: 4 anos</p><p>Raça: Vira-lata</p><p>Sexo: Macho</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 1"><h2>Pet 1</h2><p>Idade: 2 anos</p><p>Raça: Labrador</p><p>Sexo: Macho</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 2"><h2>Pet 2</h2><p>Idade: 1 ano</p><p>Raça: Golden Retriever</p><p>Sexo: Fêmea</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 3"><h2>Pet 3</h2><p>Idade: 3 anos</p><p>Raça: Poodle</p><p>Sexo: Fêmea</p></div>
+            <div><img src="https://cdn.petpress.net/wp-content/uploads/2020/03/12024106/dog-12-19.jpg" alt="Pet 4"><h2>Pet 4</h2><p>Idade: 4 anos</p><p>Raça: Vira-lata</p><p>Sexo: Macho</p></div>
+            <!-- Adicione mais itens de carrossel conforme necessário -->
+        </div>
+    </main>
+    <script>
+        $(document).ready(function(){
+            $('.carousel').slick({
+                slidesToShow: 4,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 2000,
+                dots: true,
+            });
+        });
+    </script>
+</body>
+</html>
