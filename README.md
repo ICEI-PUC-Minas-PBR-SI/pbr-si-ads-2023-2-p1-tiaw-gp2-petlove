@@ -16,7 +16,6 @@ Bem-vindo ao PetLove, onde a tecnologia encontra a paixão por pets. Facilitando
 * João Pedro Gomes Machado
 * João Pedro Carmo Lopes
 * Victor Hugo de Santana
-* Guilherme Queiroz Silva
 * Camila Moreira Pessoa
 * Maria Luiza Mendes Matos
 * Nathan Araujo Godinho
