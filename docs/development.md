@@ -25,6 +25,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ### Requisitos Funcionais
 
+
+
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
 |RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
