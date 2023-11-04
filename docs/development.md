@@ -29,7 +29,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir a tela de cadastro. | ALTA | index.html  |
+|RF-001| O sistema deve exibir a tela de cadastro. | ALTA | telacadastro.html  |
 |RF-002| O sistema apresenta a tela da conta feita pelo usuário  | ALTA | cadastro-noticia.html |
 |RF-003| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-004| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
