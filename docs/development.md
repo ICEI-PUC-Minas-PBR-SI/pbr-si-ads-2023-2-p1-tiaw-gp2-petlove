@@ -30,7 +30,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
 |RF-001| Agregação das informações do usuário para fazer parte do site .  | ALTA | telacadastro.html  |
-|RF-002| O sistema apresenta a tela da conta feita pelo usuário.  | ALTA | telasuaconta.html |
+|RF-002| O sistema apresenta a tela da conta feita pelo usuário com suas informações e dados situados.  | ALTA | telasuaconta.html |
 |RF-003| Sistema feito para usuários que tem a necessidade de obter mais informações ou ajuda. | ALTA | telafaleconosco.html |
 |RF-004|  O sistema deve exibir a tela de cadastro para o usuário adentrar ao site. | ALTA | telaloginusuario.html |
 |RF-005| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
