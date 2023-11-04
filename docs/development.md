@@ -31,7 +31,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |------|------------------------|------------|-----------------|
 |RF-001| O sistema deve exibir a tela de cadastro. | ALTA | telacadastro.html  |
 |RF-002| O sistema apresenta a tela da conta feita pelo usuário  | ALTA | telasuaconta.html |
-|RF-003| Sistema feito para usuários que tem a necessidade de obter mais informaçõe ou ajuda. | ALTA | cadastro-noticia.html |
+|RF-003| Sistema feito para usuários que tem a necessidade de obter mais informaçõe ou ajuda. | ALTA | telafaleconosco.html |
 |RF-004| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-005| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-006| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
