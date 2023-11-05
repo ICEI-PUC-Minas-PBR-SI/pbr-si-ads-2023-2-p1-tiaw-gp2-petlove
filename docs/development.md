@@ -37,8 +37,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-006| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-007| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-008| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
-|RF-009| Usuários autenticados podem registrar novas notícias. | ALTA | index.html |
-|RF-010| Usuários autenticados podem registrar novas notícias. | ALTA | style.css |
+|RF-009| Contem informações principais do site. | ALTA | index.html |
+|RF-010| Contem os styles da pasta index.html. | ALTA | style.css |
 
 ## Descrição das estruturas:
 
