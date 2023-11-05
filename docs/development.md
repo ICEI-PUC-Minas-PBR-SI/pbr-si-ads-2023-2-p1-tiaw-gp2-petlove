@@ -2,7 +2,7 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo.
+Para cada requisito funcional, pode ser entr
 
 O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utilizados como referência:
 - Login do sistema: [https://repl.it/@rommelpuc/LoginApp](https://repl.it/@rommelpuc/LoginApp) 
