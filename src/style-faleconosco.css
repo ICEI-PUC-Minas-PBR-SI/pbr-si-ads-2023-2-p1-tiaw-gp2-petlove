@@ -12,7 +12,7 @@ h1 {
     font-size: 24px;
 }
 main {
-    width: 80%;
+    width: 100%;
     max-width: 600px;
     margin: 0 auto;
     background-color: #fff;
@@ -32,6 +32,8 @@ input, textarea {
     margin: 5px 0;
     border: 1px solid #ccc;
     border-radius: 4px;
+     width: 100%;
+
 }
 button {
     background-color: #ff4f4f;
@@ -40,6 +42,8 @@ button {
     padding: 10px 20px;
     border-radius: 4px;
     cursor: pointer;
+     width: 100%;
+
 }
 button:hover {
     background-color: #ff4f4f;
