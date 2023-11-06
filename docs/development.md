@@ -29,15 +29,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-009| É a tela inicial de bem vindo(a). | ALTA | index.html |
-|RF-001| Agregação das informações do usuário para fazer parte do site .  | ALTA | tela1.html  |
-|RF-007| Usuários autenticados podem registrar novas notícias. | ALTA | tela2.html |
-|RF-004| O sistema deve exibir a tela de cadastro para o usuário adentrar ao site. | ALTA | tela3.html |
-|RF-008| Usuários autenticados podem registrar novas notícias. | ALTA | tela4.html
-|RF-003| Sistema feito para usuários que tem a necessidade de obter mais informações ou ajuda. | ALTA | tela5.html |
-|RF-002| O sistema apresenta a tela da conta feita pelo usuário com suas informações e dados situados, tela Sua conta.  | ALTA | tela6.html |
-|RF-005| Usuários autenticados podem registrar novas notícias. | ALTA | tela7.html |
-|RF-006| Usuários autenticados podem registrar novas notícias. | ALTA | tela8.html |
+|RF-001| É a tela inicial de bem vindo(a). | ALTA | index.html |
+|RF-002| Agregação das informações do usuário para fazer parte do site. Tela de cadastro. | ALTA | tela1.html  |
+|RF-003| Seção voltada ao pet tinder do aplicativo. | ALTA | tela2.html |
+|RF-004| O sistema deve exibir a tela de login para o usuário adentrar ao site. | ALTA | tela3.html |
+|RF-005| Tela inicial ao entrar no site. | ALTA | tela4.html
+|RF-006| Sistema feito para usuários que tem a necessidade de obter mais informações ou ajuda. | ALTA | tela5.html |
+|RF-007| O sistema apresenta a tela da conta feita pelo usuário com suas informações e dados situados, tela Sua conta.  | ALTA | tela6.html |
+|RF-008| Tela voltada ao cadastro para doação  de pets. | ALTA | tela7.html |
+|RF-009| Tela  de doação de pets. | ALTA | tela8.html |
 
  
 
