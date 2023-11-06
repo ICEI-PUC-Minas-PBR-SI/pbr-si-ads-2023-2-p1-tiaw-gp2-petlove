@@ -39,7 +39,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-008| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-009| É a tela inicial de bem vindo(a). | ALTA | index.html |
 |RF-010| Contem os styles da pasta index.html. | ALTA | style.css |
-|RF-010| Contem os styles da pasta index.html. | ALTA | style.css |
+|RF-010| Contem os styles da pasta index.html. | ALTA | style-tela1.css |
 |RF-010| Contem os styles da pasta index.html. | ALTA | style.css |
 ## Descrição das estruturas:
 
