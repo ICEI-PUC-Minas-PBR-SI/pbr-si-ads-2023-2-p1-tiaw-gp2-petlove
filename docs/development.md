@@ -32,12 +32,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-001| Agregação das informações do usuário para fazer parte do site .  | ALTA | telacadastro.html  |
 |RF-002| O sistema apresenta a tela da conta feita pelo usuário com suas informações e dados situados.  | ALTA | telasuaconta.html |
 |RF-003| Sistema feito para usuários que tem a necessidade de obter mais informações ou ajuda. | ALTA | telafaleconosco.html |
-|RF-004|  O sistema deve exibir a tela de cadastro para o usuário adentrar ao site. | ALTA | telaloginusuario.html |
+|RF-004| O sistema deve exibir a tela de cadastro para o usuário adentrar ao site. | ALTA | telaloginusuario.html |
 |RF-005| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-006| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-007| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 |RF-008| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
-|RF-009| Contem informações principais do site. | ALTA | index.html |
+|RF-009| É a tela inicial de bem vindo(a). | ALTA | index.html |
 |RF-010| Contem os styles da pasta index.html. | ALTA | style.css |
 
 ## Descrição das estruturas:
