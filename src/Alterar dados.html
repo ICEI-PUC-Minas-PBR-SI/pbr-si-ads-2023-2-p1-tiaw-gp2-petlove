@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Conta</title>
+    <link rel="stylesheet"  href="style alterar dados.css">
+</head>
+<body>
+    <header>
+        <h1>Sua Conta</h1>
+    </header>
+    <main>
+        <h2>Alterar Email</h2>
+        <form action="alterar_email.php" method="post">
+            <label for="novo_email">Novo Email:</label>
+            <input type="email" id="novo_email" name="novo_email" required>
+
+            <button type="submit">Alterar Email</button>
+        </form>
+
+        <h2>Alterar Senha</h2>
+        <form action="alterar_senha.php" method="post">
+            <label for="nova_senha">Nova Senha:</label>
+            <input type="password" id="nova_senha" name="nova_senha" required>
+
+            <button type="submit">Alterar Senha</button>
+        </form>
+
+        <h2>Excluir Conta</h2>
+        <form action="excluir_conta.php" method="post">
+            <p>Tem certeza de que deseja excluir sua conta? Esta ação é irreversível.</p>
+
+            <button type="submit">Excluir Conta</button>
+        </form>
+    </main>
+</body>
+</html>
