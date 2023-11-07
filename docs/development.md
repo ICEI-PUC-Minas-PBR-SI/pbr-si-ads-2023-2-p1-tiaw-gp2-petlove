@@ -1,8 +1,18 @@
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Na programação de nossas funcionalidades foram usadas algumas tecnologias desempenham papéis importantes, incluindo HTML, CSS, JavaScript, Canva e ferramentas de controle de versão como Git Bash integradas ao Visual Studio Code.
 
-Para cada requisito funcional, pode ser entr
+HTML (HyperText Markup Language) é a espinha dorsal da web e é usado para estruturar o conteúdo de uma página. É comumente usado para definir a arquitetura do site, criando a estrutura lógica do conteúdo, como cabeçalhos, parágrafos, listas e links. Para alcançar um design premium, é importante utilizar HTML de maneira eficiente, garantindo que a estrutura do site seja organizada e acessível.
+
+CSS (Cascading Style Sheets) é a linguagem de estilo que permite a formatação e o design de elementos HTML. É fundamental para criar uma estética atraente e consistente em um site. Ao vincular o CSS ao HTML, os desenvolvedores podem definir cores, fontes, tamanhos e layouts, criando uma experiência visual agradável e premium para os usuários.
+
+JavaScript desempenha um papel crucial na programação de funcionalidades. Ele é uma linguagem de programação que permite a interatividade e a dinâmica em um site. Com JavaScript, é possível adicionar recursos como menus de navegação, formulários interativos, carregamento de conteúdo dinâmico e animações. A programação de detalhes com base nas funcionalidades do site do wireframe é simplificada com o uso de JavaScript, tornando o site mais funcional e envolvente.
+
+O Canva é uma ferramenta de design gráfico que facilita a criação de layouts e elementos visuais para um site. É uma opção valiosa para criar gráficos de alta qualidade, ícones, imagens de destaque e outros elementos visuais que contribuem para um design mais premium. Ao usar o Canva, os desenvolvedores podem aprimorar a estética do site de maneira eficiente.
+
+Além disso, o controle de versão desempenha um papel crucial na colaboração e na manutenção do código-fonte. O Git Bash, uma interface para o Git, permite que os desenvolvedores acompanhem as alterações no código, trabalhem em equipe e revertam para versões anteriores se necessário. A integração do Git Bash com o Visual Studio Code proporciona um ambiente de desenvolvimento eficaz e colaborativo.
+
+Em resumo, a programação de funcionalidades é um processo multifacetado que envolve a combinação de várias tecnologias e ferramentas para criar um site ou aplicativo com um design premium e potente. A integração de HTML, CSS, JavaScript, Canva e controle de versão é fundamental para alcançar um resultado final impressionante e funcional.
 
 O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utilizados como referência:
 - Login do sistema: [https://repl.it/@rommelpuc/LoginApp](https://repl.it/@rommelpuc/LoginApp) 
