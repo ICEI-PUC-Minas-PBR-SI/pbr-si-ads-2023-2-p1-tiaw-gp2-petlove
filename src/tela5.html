@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doação de Animal</title>
+    <title>Fale Conosco</title>
     <link rel="stylesheet" href="style.css"> <!-- Adicione seu arquivo CSS aqui -->
     <style>
         body {
@@ -56,26 +56,20 @@
 </head>
 <body>
     <header>
-        <h1>Doação de Animal</h1>
+        <h1>Fale Conosco</h1>
     </header>
     <main>
-        <form action="processar_doacao.php" method="post" enctype="multipart/form-data">
-            <label for="nome_cachorro">Nome do PET:</label>
-            <input type="text" id="nome_cachorro" name="nome_cachorro" required>
+        <form action="processar_formulario.php" method="post">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
 
-            <label for="idade_cachorro">Idade do PET:</label>
-            <input type="text" id="idade_cachorro" name="idade_cachorro" required>
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
 
-            <label for="raca_cachorro">Raça do PET:</label>
-            <input type="text" id="raca_cachorro" name="raca_cachorro" required>
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
 
-            <label for="fotos_cachorro">Fotos do PET:</label>
-            <input type="file" id="fotos_cachorro" name="fotos_cachorro" multiple accept="image/*" required>
-
-            <label for="curiosidades_cachorro">Curiosidades sobre o PET:</label>
-            <textarea id="curiosidades_cachorro" name="curiosidades_cachorro" rows="4" required></textarea>
-
-            <button type="submit">Enviar Doação</button>
+            <button type="submit">Enviar</button>
         </form>
     </main>
 </body>

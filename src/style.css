@@ -5,9 +5,10 @@ body {
 }
 
 header {
-    background-color: #ff4f4f;
+    background-color: rgb(255, 134, 126);
     color: #fff;
-    padding: 10px 0;
+    padding: 10px;
+    
 }
 
 nav ul li a {
@@ -28,7 +29,7 @@ p {
 }
 
 .start-button {
-    background-color: #ff4f4f;
+    background-color: rgb(255, 134, 126);
     color: #fff;
     border: none;
     padding: 15px 30px;
@@ -50,8 +51,8 @@ p {
 }
 
 .search-button {
-    background-color: #ff8800;
-    color: #fff;
+    background-color: RGB(255, 210, 210);
+    color: rgb(255, 134, 126);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -158,7 +159,7 @@ p {
 }
 
 header {
-    background-color: #ff4f4f;
+    background-color: rgb(255, 134, 126);
     color: #fff;
     text-align: center;
     padding: 20px 0;
