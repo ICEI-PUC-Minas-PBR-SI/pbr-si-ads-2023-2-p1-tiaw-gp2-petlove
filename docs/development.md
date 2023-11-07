@@ -37,7 +37,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-006| Sistema feito para usuários que tem a necessidade de obter mais informações ou ajuda. | ALTA | tela5.html |
 |RF-007| O sistema apresenta a tela da conta feita pelo usuário com suas informações e dados situados, tela Sua conta.  | ALTA | tela6.html |
 |RF-008| Tela voltada ao cadastro para doação  de pets. | ALTA | tela7.html |
-|RF-009| Tela  de doação de pets. | ALTA | tela8.html |
+|RF-009| Tela destinada para a doação de pets. | ALTA | tela8.html |
 
  
 
