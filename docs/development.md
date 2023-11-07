@@ -30,9 +30,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
 |RF-001| É a tela inicial de bem vindo(a). | ALTA | index.html |
-|RF-002| Agregação das informações do usuário para fazer parte do site. Tela de cadastro. | ALTA | tela1.html  |
+|RF-002| Agregação das informações do usuário para fazer parte do site. Tela de cadastro. | ALTA | teladecadastro.html  |
 |RF-003| Seção voltada ao pet tinder do aplicativo. | ALTA | tela2.html |
-|RF-004| O sistema deve exibir a tela de login para o usuário adentrar ao site. | ALTA | tela3.html |
+|RF-004| O sistema deve exibir a tela de login para o usuário adentrar ao site. | ALTA | teladelogin.html |
 |RF-005| Tela inicial ao entrar no site. | ALTA | tela4.html
 |RF-006| Sistema feito para usuários que tem a necessidade de obter mais informações ou ajuda. | ALTA | tela5.html |
 |RF-007| O sistema apresenta a tela da conta feita pelo usuário com suas informações e dados situados, tela Sua conta.  | ALTA | tela6.html |
