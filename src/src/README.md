@@ -15,7 +15,7 @@
     <style>
         .buttons-container {
             text-align: center;
-            margin-top: 30px;
+            margin-top: 20px;
         }
         .start-button {
             background-color: #ff6b6b;
