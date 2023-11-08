@@ -7,7 +7,7 @@ body {
 header {
     background-color: #ff4f4f;
     color: #fff;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 nav ul li a {
@@ -19,7 +19,7 @@ nav ul li a {
 
 h1 {
     font-size: 2.5rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 p {
