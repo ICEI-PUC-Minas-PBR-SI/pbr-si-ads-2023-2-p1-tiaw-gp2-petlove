@@ -1,5 +1,5 @@
 # Ata Técnica - Projeto de Desenvolvimento de Aplicações Web 
-Data: 13 de outubro de 2023 
+Data: 08 de novembro de 2023 
 
 Local: Reunião Remota  
 
@@ -24,11 +24,11 @@ Reunião para coordenar as próximas etapas do projeto, considerando que todas a
 
 ## Tópicos Discutidos e Distribuição de Tarefas:
 
-* Victor informou que as telas no Figma estão prontas, e não há mais trabalho a ser feito neste momento. 
+* Victor completou algumas telas e as deixou responsivas, e não há mais trabalho a ser feito neste momento. 
 * Foi relatado que todas as telas em HTML e CSS foram concluídas por Caio. Essas telas passaram por uma revisão e estão prontas para a sequência do projeto. 
-* Maria, Camila e Samuel ficaram encarregados da criação dos wireframes, que serão devidamente preparados para posterior upload no GitHub. 
-* O João foi designado para executar o upload das telas já concluídas e para iniciar a implementação do userflow no GitHub. 
-* Nathan Araújo e João Carmo, foram responsáveis pela confecção da nossa Ata técnica. 
+* Maria, Camila e Samuel ficaram encarregados a completar as telas, que serão devidamente preparados para posterior upload no GitHub. 
+* O João Gomes foi designado para executar o upload das telas já concluídas e para iniciar a implementação do style.css e em seguida upar no GitHub. 
+* João Gomesficou responsavel pela confecção da nossa Ata técnica. 
 
 ## GitHub 
 
