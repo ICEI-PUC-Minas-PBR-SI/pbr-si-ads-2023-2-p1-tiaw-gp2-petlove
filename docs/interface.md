@@ -16,7 +16,7 @@
 *Visitantes chegam à página inicial do site. (primeira tela),
  e encontra designer intuitivo com interação com usuario, onde poderá começar a sua interação com o site
 
-*Visitantes deverá fazer o login no site ou cadastrar uma conta para iniciar,
+*Visitantes deverão fazer o login no site ou cadastrar uma conta para iniciar,
 ele deve criar uma conta em nosso sistema para ficar mais usual para o mesmo
 
 *Visitante após criar seu cadastro deverar logar em sua conta.
