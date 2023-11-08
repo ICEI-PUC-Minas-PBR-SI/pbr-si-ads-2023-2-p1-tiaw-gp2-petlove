@@ -22,7 +22,7 @@ h1 {
 }
 input {
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -33,7 +33,7 @@ input {
     color: #fff;
     border: none;
     padding: 10px 20px;
-    border-radius: 4px;
+    border-radius: 2px;
     font-size: 1rem;
     cursor: pointer;
     margin-right: 10px;
