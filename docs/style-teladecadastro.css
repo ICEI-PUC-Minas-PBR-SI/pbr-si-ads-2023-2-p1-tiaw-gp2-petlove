@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 102vh;
+    min-height: 101vh;
 }
 .container {
     text-align: center;
