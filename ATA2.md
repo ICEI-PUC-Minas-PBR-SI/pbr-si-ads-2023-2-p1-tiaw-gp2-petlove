@@ -26,9 +26,10 @@ Reunião para coordenar a próxima etapa do projeto, implementação do javascri
 
 * Victor informou que as telas no Figma estão prontas, e não há mais trabalho a ser feito neste momento. 
 * Foi relatado que todas as telas em HTML e CSS foram concluídas por Caio. Essas telas passaram por uma revisão e estão prontas para a sequência do projeto. 
-* Maria, Camila e Samuel ficaram encarregados da criação dos wireframes, que serão devidamente preparados para posterior upload no GitHub. 
+* Samuel,ficou responsável pela criação da tela "Altere seus dados".
 * João Gomes ficou responsável pela tela de login e de cadastro.
-* João Carmo, pela tela de adote um pet.(tela 8).
+* João Carmo, fez a tela "Adote um pet"(tela 8).
+* Nathan Araújo, atualizou o development no git.
 * Nathan Araújo e João Carmo, foram responsáveis pela confecção da nossa Ata técnica. 
 
 ## GitHub 
