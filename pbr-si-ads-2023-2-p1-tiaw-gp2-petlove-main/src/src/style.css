@@ -222,18 +222,19 @@ main {
 .info-card {
   background-color: rgb(255, 134, 126); /* Cor de fundo do card */
   border: 1px solid rgb(255, 134, 126); /* Borda do card */
-  padding: 20px;
-  margin: 20px; /* Margem ao redor do card */
+  padding: 0px;
+  margin: 0px; /* Margem ao redor do card */
   text-align: center;
 }
 
 .info-card h2 {
   font-size: 24px; /* Tamanho da fonte do título do card */
-  margin-bottom: 10px; /* Espaço entre o título e o conteúdo */
+  margin-bottom: 0px; /* Espaço entre o título e o conteúdo */
 }
 
 .info-card p {
   font-size: 18px; /* Tamanho da fonte do conteúdo do card */
+  margin-bottom: 0px;
 }
 /* Estilo para o formulário "Entre em Contato" */
 .contact-form {
