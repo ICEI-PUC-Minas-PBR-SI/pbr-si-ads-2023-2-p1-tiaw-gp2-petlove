@@ -23,14 +23,14 @@ A reunião remota foi realizada via Teams, permitindo-nos compartilhar informaç
 Reunião para coordenar a próxima etapa do projeto, implementação do javascript e de funcionalidades no site.
 
 ## Tópicos Discutidos e Distribuição de Tarefas:
-
-* Victor 
+Todas as telas já estão feitas em html e css. Além de estarem todas responsivas.
+* Victor ficou responsável por renomear as páginas e pastas, bem como a manutenção do github.
 * Caio foi o responsável pela tela de interface.
 * Camila, ficou responsável pela criação da tela "Fale conosco".
 * Samuel,ficou responsável pela criação da tela "Altere seus dados".
 * Maria e João Gomes ficaram responsáveis pelo css e html das telas de login e de cadastro.
-* João Carmo, fez a tela "Adote um pet"(tela 8).
-* Nathan Araújo, atualizou o development no git.
+* João Carmo, ficou responsável pela tela  "Adote um pet".
+* Nathan Araújo, atualizou o development no git e fez as especificações do documento.
 * Nathan Araújo e João Carmo, foram responsáveis pela confecção da nossa Ata técnica. 
 
 ## GitHub 
@@ -48,4 +48,4 @@ Data: A ser agendada após a conclusão das tarefas atribuídas.
 
 ## Encerramento
 
-A reunião foi concluída com um entendimento claro de que as telas estão prontas, e a equipe está comprometida em continuar a colaboração para a próxima fase, de implentação de javascript.
+A reunião foi concluída com um entendimento claro de que as telas estão prontas, e a equipe está comprometida em continuar a colaboração para a próxima fase de implentação de javascript.
