@@ -58,7 +58,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | teste123        | NUMERO  | IDENTIFICAR LOGIN DE CADASTRO            | 1                 TESTE123                             |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                 ID 2022           Numero               Tela de Cadastro                          Cadastrado
+| cadastro         | cadastro tela             | cadastrar tela                         |cadastro de tela de pet                                ID 2022           Numero               Tela de Cadastro                          Cadastrado
 | Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
 | Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
 
