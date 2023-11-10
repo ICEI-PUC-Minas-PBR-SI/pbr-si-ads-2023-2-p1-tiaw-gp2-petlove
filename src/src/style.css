@@ -8,6 +8,7 @@ header {
   background-color: rgb(255, 134, 126);
   color: #fff;
   padding: 10px;
+  margin: 0;
   
 }
 
@@ -33,7 +34,7 @@ p {
     color: #fff;
     border: none;
     padding: 15px 30px;
-    border-radius: 5px;
+    border-radius: 6px;
     font-size: 1.2rem;
     text-decoration: none;
 }
@@ -222,18 +223,19 @@ main {
 .info-card {
   background-color: rgb(255, 134, 126); /* Cor de fundo do card */
   border: 1px solid rgb(255, 134, 126); /* Borda do card */
-  padding: 20px;
-  margin: 20px; /* Margem ao redor do card */
+  padding: 0px;
+  margin: 0px; /* Margem ao redor do card */
   text-align: center;
 }
 
 .info-card h2 {
   font-size: 24px; /* Tamanho da fonte do título do card */
-  margin-bottom: 10px; /* Espaço entre o título e o conteúdo */
+  margin-bottom: 0px; /* Espaço entre o título e o conteúdo */
 }
 
 .info-card p {
-  font-size: 18px; /* Tamanho da fonte do conteúdo do card */
+  font-size: 18px;
+  margin-bottom: 0px; 
 }
 /* Estilo para o formulário "Entre em Contato" */
 .contact-form {

@@ -15,12 +15,12 @@
             background-color: rgb(255, 134, 126);
             color: #fff;
             text-align: center;
-            padding: 15px 0;
+            padding: 10px 0;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 50px;
         }
         .profile-card {
             background-color: #fff;
@@ -48,16 +48,22 @@
             margin-top: 20px;
         }
         .nav-buttons button {
-            background-color: #007BFF;
-            color: #fff;
             border: none;
-            padding: 10px 20px;
+            padding: 15px 30px;
             border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
         }
+        #nao-match-button {
+            background-color: red; /* Cor vermelha para "Não Match" */
+            color: #fff;
+        }
+        #match-button {
+            background-color: green; /* Cor verde para "Match" */
+            color: #fff;
+        }
         .nav-buttons button:hover {
-            background-color: #0056b3;
+            opacity: 0.8;
         }
     </style>
 </head>
@@ -75,8 +81,8 @@
             <p>Personalidade: Brincalhão e amigável</p>
             <p>Descrição: Rex adora correr pelo parque e fazer novos amigos. Ele também adora brincar de buscar a bolinha e é super obediente.</p>
             <div class="nav-buttons">
-                <button id="nao-match-button">Não Match</button>
-                <button id="match-button">Match</button>
+                <button id="nao-match-button">Recusar</button>
+                <button id="match-button">Aceitar</button>
             </div>
         </div>
         <div id="parabens-message" style="display: none;">
