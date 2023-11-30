@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +16,7 @@
             align-items: center;
             min-height: 100vh;
         }
+
         .container {
             text-align: center;
             background-color: #fff;
@@ -22,11 +24,13 @@
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             padding: 30px;
         }
+
         h1 {
             color: rgb(255, 134, 126);
             font-size: 2.5rem;
             margin-bottom: 20px;
         }
+
         input {
             width: 100%;
             padding: 10px;
@@ -35,6 +39,7 @@
             border-radius: 5px;
             font-size: 1rem;
         }
+
         .submit-button {
             background-color: rgb(255, 134, 126);
             color: #fff;
@@ -45,6 +50,7 @@
             cursor: pointer;
             margin-right: 10px;
         }
+
         .existing-user-button {
             background-color: rgb(255, 134, 126);
             color: #fff;
@@ -54,25 +60,56 @@
             font-size: 1rem;
             cursor: pointer;
         }
+
         .existing-user-button:hover {
             background-color: #999;
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Cadastre-se no Tinder para Cachorros</h1>
         <form>
-            <input type="text" placeholder="Nome completo" required>
-            <input type="email" placeholder="Email" required>
-            <input type="password" placeholder="Senha" required>
-            <input type="password" placeholder="Confirme a senha" required>
+            <input id="nomeCompleto" type="text" placeholder="Nome completo" required>
+            <input id="emailRequisitado" type="email" placeholder="Email" required>
+            <input id="senhaPassword" type="password" placeholder="Senha" required>
+            <input id="confirmePassword" type="password" placeholder="Confirme a senha" required>
             <br>
             <br>
-            
-            <a href="logar.html" class="existing-user-button">Cadastrar</a>
-            <a href="logar.html" class="existing-user-button">Já Possuo Cadastro</a>
+
+            <a id="cadastrarButn" class="existing-user-button">Cadastrar</a>
+            <a id="jatemcadastroBtn" href="logar.html" class="existing-user-button">Já Possuo Cadastro</a>
         </form>
     </div>
 </body>
+<script>
+    document.getElementById("cadastrarButn").addEventListener("click", () => {
+        var nome = document.getElementById('nomeCompleto').value
+        var email = document.getElementById('emailRequisitado').value
+        var senha = document.getElementById('senhaPassword').value
+        var confirmSenha = document.getElementById('confirmePassword').value
+
+        if (senha === confirmSenha) {
+            var user = {
+                name: nome,
+                email: email,
+                senha: senha,
+                confirmSenha: confirmSenha
+            }
+
+            const userString = JSON.stringify(user);
+            localStorage.setItem('user', userString);
+
+            var usuarioSalvo = JSON.parse(localStorage.getItem("user"))
+            alert("Usuario cadastrado com sucesso")
+
+            window.location.href = "./logar.html"
+        } 
+        else {
+            alert("As senhas não coincidem")
+        }
+    })
+</script>
+
 </html>
