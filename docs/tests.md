@@ -24,6 +24,8 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
+## Testes de funcionalidade das telas login e cadastro
+
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/d9faf561-e083-41e8-979e-b512627e1e83)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/7ffe189a-83df-4c90-aa6a-2ce205a1d546)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/17ba65b9-a145-4d61-aeaa-142c81ecc43a)
