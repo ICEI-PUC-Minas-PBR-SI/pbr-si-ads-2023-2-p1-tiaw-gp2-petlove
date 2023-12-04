@@ -29,7 +29,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT01 - Criar conta parte 1**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informa nome, sobrenome, email e senha "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
 **Requisitos associados** | RF-001
 **Resultado esperado** | Prosseguir para a parte 2 do cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
@@ -43,7 +43,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT02 - Criar conta parte 2**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
+**Procedimento**  | 1) Usuário informa seu email e senha cadastrados  e clica em "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
 **Requisitos associados** | RF-001
 **Resultado esperado** | Criação de cadastro
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
@@ -52,30 +52,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/d9faf561-e083-41e8-979e-b512627e1e83)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/7ffe189a-83df-4c90-aa6a-2ce205a1d546)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/17ba65b9-a145-4d61-aeaa-142c81ecc43a)
-
-
-
-
-
-
-
-  
-
-**Caso de Teste** | **CT01 - Criar conta parte 1**
- :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
-**Resultado obtido** | Sucesso.
-
-**Caso de Teste** | **CT02 - Criar conta parte 2**
- :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Criação de cadastro
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
-**Resultado obtido** | Sucesso.
 
 ## Registro dos Testes de Software
 
