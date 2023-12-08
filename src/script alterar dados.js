@@ -1,6 +1,9 @@
+const email_login = localStorage.getItem('emailLogado');
+
 document.getElementById("alterar_email").addEventListener("click", (event) => {
     event.preventDefault();
 
+    var email = document.getElementById('email').value;
     var novoEmail = document.getElementById('novo_email').value;
 
     const usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
@@ -8,14 +11,16 @@ document.getElementById("alterar_email").addEventListener("click", (event) => {
     var usuario = usuariosSalvos.find(x => x.email == email);
 
     if (usuario !== undefined) {
+        if (email == email_login) {
 
         usuario.email = novoEmail;
 
         localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
 
         alert('Email alterado com sucesso!');
-    } else {
-        alert('Usuário não encontrado');
+        }
+        else
+            alert('Usuário não encontrado');
     }
 });
 
@@ -41,9 +46,10 @@ document.getElementById("alterar_senha").addEventListener("click", (event) => {
 });
 
 document.getElementById("excluir_conta").addEventListener("click", (event) => {
+
     event.preventDefault(); // Impede o envio do formulário
 
-    // Confirmação da exclusão da conta
+
     var confirmacao = confirm("Tem certeza de que deseja excluir sua conta? Esta ação é irreversível.");
 
     if (confirmacao) {
