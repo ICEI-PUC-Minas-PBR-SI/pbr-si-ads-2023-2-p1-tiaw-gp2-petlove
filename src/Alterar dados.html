@@ -16,7 +16,7 @@
             <label for="novo_email">Novo Email:</label>
             <input type="email" id="novo_email" name="novo_email" required>
 
-            <button type="submit">Alterar Email</button>
+            <button id="alterar_email" type="submit">Alterar Email</button>
         </form>
 
         <h2>Alterar Senha</h2>
@@ -24,15 +24,16 @@
             <label for="nova_senha">Nova Senha:</label>
             <input type="password" id="nova_senha" name="nova_senha" required>
 
-            <button type="submit">Alterar Senha</button>
+            <button id="alterar_senha" type="submit">Alterar Senha</button>
         </form>
 
         <h2>Excluir Conta</h2>
         <form action="excluir_conta.php" method="post">
             <p>Tem certeza de que deseja excluir sua conta? Esta ação é irreversível.</p>
 
-            <button type="submit">Excluir Conta</button>
+            <button id="excluir_conta" type="submit">Excluir Conta</button>
         </form>
     </main>
+    <script src="alterar dados.js"></script>
 </body>
 </html>
