@@ -100,7 +100,9 @@
         if (user != undefined) {
             if (email == user.email) {
                 if (senha === user.senha) {
-                    alert(`Bem vindo ${user.nome}`)
+                    alert(`Bem vindo ${user.name}`)
+                    localStorage.setItem('emailLogado', email);
+                    localStorage.setItem('senhaLogada', senha);
                     window.location.href = "./menuprincipal.html"
                 } else {
                     alert(" Senha invalida")
@@ -112,24 +114,6 @@
             alert("Usuário não encontrado")
         }
     })
-
-    document.getElementById("entrarBtn").addEventListener("click", () => {
-        if (user != undefined) {
-        if (email == user.email) {
-            if (senha === user.senha) {
-                alert(`Bem-vindo ${user.nome}`)
-                localStorage.setItem('emailLogado', email);
-                window.location.href = "./menuprincipal.html";
-            } else {
-                alert("Senha inválida");
-            }
-        } else {
-            alert("Email inválido");
-        }
-    } else {
-        alert("Usuário não encontrado");
-    }
-});
 </script>
 
 </html>

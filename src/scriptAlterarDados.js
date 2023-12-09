@@ -1,4 +1,5 @@
 const email_login = localStorage.getItem('emailLogado');
+const senha_login = localStorage.getItem('senhaLogada');
 
 document.getElementById("alterar_email").addEventListener("click", (event) => {
     event.preventDefault();
@@ -6,42 +7,45 @@ document.getElementById("alterar_email").addEventListener("click", (event) => {
     var email = document.getElementById('email').value;
     var novoEmail = document.getElementById('novo_email').value;
 
-    const usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
-
+    var usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
     var usuario = usuariosSalvos.find(x => x.email == email);
-
+ 
     if (usuario !== undefined) {
-        if (email == email_login) {
-
-        usuario.email = novoEmail;
-
-        localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
-
-        alert('Email alterado com sucesso!');
+        for (let index = 0; index < usuariosSalvos.length; index++) {
+            if(usuariosSalvos[index].email == email){
+                usuariosSalvos[index].email = novoEmail
+                localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
+                alert('Email alterado com sucesso!');
+                break
+            }
         }
-        else
-            alert('Usuário não encontrado');
+    } else {
+        alert("usuário não encontrado")
     }
 });
 
 document.getElementById("alterar_senha").addEventListener("click", (event) => {
     event.preventDefault();
 
+    var senha = document.getElementById('senha').value;
     var novaSenha = document.getElementById('nova_senha').value;
-
-    const usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
-
-    var usuario = usuariosSalvos.find(x => x.email == email);
+    var usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
+    var usuario = usuariosSalvos.find(x => x.senha == senha);
 
     if (usuario !== undefined) {
-
-        usuario.senha = novaSenha;
-
-        localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
-
-        alert('Senha alterada com sucesso!');
+        for (let index = 0; index < usuariosSalvos.length; index++){
+            if(usuariosSalvos[index].senha == senha){
+                usuariosSalvos[index].senha = novaSenha
+                localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
+                alert('Senha alterada com sucesso!');
+                break
+            }
+            else{
+                alert("o email ou senha estão incorretos")
+            }
+        }
     } else {
-        alert('Usuário não encontrado');
+        alert('Usuário não encontrado, faça login para alterar sua senha');
     }
 });
 
@@ -54,7 +58,7 @@ document.getElementById("excluir_conta").addEventListener("click", (event) => {
 
     if (confirmacao) {
 
-        const usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
+        var usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
 
         var indiceUsuario = usuariosSalvos.findIndex(x => x.email == email);
 
