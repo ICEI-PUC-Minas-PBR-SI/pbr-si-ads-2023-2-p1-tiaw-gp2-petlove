@@ -69,32 +69,32 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-004 - Usuários  autenticados podem se cadastrar  e serem autenticados.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-02 - Tela Principal*                                         |
+|*Caso de Teste*                                 |*TC-03 - Tela Principal*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários já logados e cadstrados podem direcionar seus objetivos no site.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-02 - Tela Petinder*                                         |
+|*Caso de Teste*                                 |*TC-04 - Tela Petinder*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários que desejam achar companheiros para seus pets.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-02 - Tela fale conosco*                                         |
+|*Caso de Teste*                                 |*TC-05 - Tela fale conosco*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Central de ajuda e reparo aos usuários.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-02 - Tela Excluir e modificar conta*                                         |
+|*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários autenticados e que desejam mudar senha e email, ou que desejam excluir  sua conta.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-02 - Tela Adote um pet*                                         |
+|*Caso de Teste*                                 |*TC-07 - Tela Adote um pet*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Direcionamento a tela  de adoção de pets.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-02 - Tela Cadastre um  pet*                                         |
+|*Caso de Teste*                                 |*TC-08 - Tela Cadastre um  pet*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários que pretendem fazer o cadstro de seus pets no site.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
@@ -104,6 +104,22 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
+*Caso de Teste: Criar uma conta* : Execução teve falhas de salvamento de usuários e de reconheci ento de cadastro, mas foram resolvidos e foi colocado alerta para a notificação do cadastro feito 
+
+*Caso de Teste: Efetuar Login (usuário autenticado)* : Execução teve falhas de salvamento do registro dos usuários da tela anterior e da confirmação da senha, foram resolvidos e refeito os testes, e foi colocado alerta para a notificação do login realizado. 
+
+*Caso de Teste: Tela Principal* : Foi usualmente funcional e ouve certos conflitos referente as informações principais da tela central, mas foi testada e verificada, foi obtido as informações das outras telas e registros da tela central.
+
+*Caso de Teste: Tela Petinder* : Ouve muitos erros na interface navegavel de "interesse" e "não interesse" da tela, e sobre as informações dos pets, a solução constada foi realizado mais testes na tela para sua conclusão final, que foi finalizada com sucesso. 
+
+*Caso de Teste: Tela fale conosco* : Não ocorreu muitos erros mas teve apenas infortunos nos alertas de notificação. Foi testada e concluida.
+
+*Caso de Teste:Tela Excluir e modificar conta* : Foi caso de erros pois se conectava a tela de login e contas, erros no código ao salvar os usuários e ao modificar senhas e emails. Foram  realizados muitos testes para seu funcionamento. Status final foi : tela funcional em alterar senha e email realizados com sucesso.
+
+
+*Caso de Teste Tela Adote um pet* : Funcional e ouve erros nas informações dos pets na adoção, mas foram resolvidos e modificados para seu funcionamento no código.
+
+*Caso de Teste Tela Cadastre um  pet* : Caso de cadastro teve erros ao salvar informações dos pets e arquivar eles na tela principal, seu resultado final foi conferido e realizado corretamente.
 
 
 
