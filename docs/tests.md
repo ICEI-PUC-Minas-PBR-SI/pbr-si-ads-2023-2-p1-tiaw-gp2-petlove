@@ -51,6 +51,10 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/809fcb76-5232-4759-a262-fb2bc4542992)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853263/1e19bef7-0224-4b07-ba50-326b4b85844d)
+
+
+
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -62,13 +66,45 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Requisito Associado | RF-004 - Usuários  autenticados podem se cadastrar  e serem autenticados.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-02 - Tela Principal*                                         |
+|---|---|
+|Requisito Associado | RF-004 - Usuários já logados e cadstrados podem direcionar seus objetivos no site.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-02 - Tela Petinder*                                         |
+|---|---|
+|Requisito Associado | RF-004 - Usuários que desejam achar companheiros para seus pets.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-02 - Tela fale conosco*                                         |
+|---|---|
+|Requisito Associado | RF-004 - Central de ajuda e reparo aos usuários.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-02 - Tela Excluir e modificar conta*                                         |
+|---|---|
+|Requisito Associado | RF-004 - Usuários autenticados e que desejam mudar senha e email, ou que desejam excluir  sua conta.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-02 - Tela Adote um pet*                                         |
+|---|---|
+|Requisito Associado | RF-004 - Direcionamento a tela  de adoção de pets.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*TC-02 - Tela Cadastre um  pet*                                         |
+|---|---|
+|Requisito Associado | RF-004 - Usuários que pretendem fazer o cadstro de seus pets no site.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 
 ## Avaliação dos Testes de Software
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+
+
 
 
 
