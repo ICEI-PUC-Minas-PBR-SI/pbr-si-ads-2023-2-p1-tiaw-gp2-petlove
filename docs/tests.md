@@ -77,8 +77,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-05 - Tela fale conosco*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Central de ajuda e reparo aos usuários.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+**Procedimento**  | 1) Usuário informa nome, sobrenome, email e senha "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Requisitos associados** | RF-001
+**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Resultado obtido** | Sucesso.
 
 |*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
 |---|---|
