@@ -161,23 +161,33 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
-| 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
+| 1             | Você é uma pessoa que deseja adotar um gato adulto. Encontre no site um gato adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação. |
+| 2             |Você é uma pessoa que deseja adotar um cachorro adulto. Encontre no site um cachorro adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
+| 3            |Você é uma pessoa que deseja encontrar um parceiro ao seu cachorro. Encontre no site um cachorro que combine com  seu pet e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
+| 4             |Você é uma pessoa que deseja doar gatinhos filhotes. Encontre no site a área de cadastro de doeção e veja detalhes do cadastro.|
+
 
 
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1:  Você é uma pessoa que deseja adotar um gato adulto. Encontre no site um gato adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.
+
+Cenário 2:Você é uma pessoa que deseja adotar um cachorro adulto. Encontre no site um cachorro adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.
+
+Cenário 3:Você é uma pessoa que deseja encontrar um parceiro ao seu cachorro. Encontre no site um cachorro que combine com  seu pet e veja detalhes de localização e contato do dono que fez o anuncio de doação.
+
+Cenário 4:Você é uma pessoa que deseja doar gatinhos filhotes. Encontre no site a área de cadastro de doeção e veja detalhes do cadastro..
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             | 5                    | 23:45 segundos                 |
+| 2       | SIM             | 5                    | 32:25 segundos                 |
+| 3       | SIM             | 5                    | 20:13 segundos                 |
+| 4       | SIM             | 5                    | 35:11 segundos                 |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     | 92%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | |
 
 
     Comentários dos usuários: Achei o site muito bom e intuitivo. 
