@@ -77,7 +77,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-05 - Tela fale conosco*                                         |
 |---|---|
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email e senha "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informa nome, email e escreve a mensagem desejada para enviar pro site.2) A aplicação verifica se os dados são válidos e se sim a mensagem é enviada.
 **Requisitos associados** | RF-001
 **Resultado esperado** | Prosseguir para a parte 2 do cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
