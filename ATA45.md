@@ -20,7 +20,7 @@ A reunião remota foi realizada via Teams, permitindo-nos compartilhar informaç
 
 ## Objetivo
 
-Reunião para coordenar a próxima etapa do projeto, implementação do javascript e de funcionalidades no site.
+Reunião para coordenar a próxima etapa do site, implementação do javascript e de funcionalidades no site.
 
 ## Tópicos Discutidos e Distribuição de Tarefas:
 Todas as telas já estão feitas em html e css. Além de estarem todas responsivas.
