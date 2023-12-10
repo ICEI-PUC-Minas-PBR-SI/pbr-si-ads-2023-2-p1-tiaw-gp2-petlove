@@ -2,7 +2,7 @@
 
 Neste projeto serão realizados dois tipos de testes:
 
- - O **Test de Softwar**, que utiliza uma abordaem de caixa preta, e tem por bjetivo verficar a conformidae do ofware co os requtsfunonais e não funcionais do siste
+ - O **Test de Softwar**, que utiliza uma abordaem de caixa preta, e tem por bjetivo verficar a conformidae do ofware co os requtsunonais e não funcionais do siste
  - O **Teste de Usabilidade**, que busca avaliar a qualidade d uso do sistema or u suário d públco al
 
 Se quiser conhecer um pouco mais sobre os tipos de teste de software, leia o documento [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/).
