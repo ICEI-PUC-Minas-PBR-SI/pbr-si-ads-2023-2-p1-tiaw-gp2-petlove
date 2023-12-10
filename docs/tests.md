@@ -186,7 +186,7 @@ Cenário 4:Você é uma pessoa que deseja doar gatinhos filhotes. Encontre no si
 | 3       | SIM             | 5                    | 20:13 segundos                 |
 | 4       | SIM             | 5                    | 35:11 segundos                 |
 |  |  |  |  |
-| **Média**     | 92%           | 0                | 0 segundos                           |
+| **Média**     | 92%           | 0                | 30 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | |
 
 
