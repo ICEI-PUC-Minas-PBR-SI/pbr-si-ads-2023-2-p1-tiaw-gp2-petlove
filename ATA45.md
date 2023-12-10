@@ -27,7 +27,7 @@ Todas as telas já estão feitas em html e css. Além de estarem todas responsiv
 * Victor ficou responsável por renomear as páginas e pastas, bem como a manutenção do github.
 * Caio foi o responsável pela tela de interface e reparos no html e pelos reparos dos defeitos e consertos que surtiram nas telas.
 * Camila, ficou responsável pela criação da tela "Fale conosco" deixando-a navegavél e funcional.
-* Samuel,ficou responsável pela criação da tela "Altere seus dados" e fazendo alterações para sua funcionalidade de mudar senha e login e excluir conta.
+* Samuel,ficou responsável pelas funcinalidades da tela "Altere seus dados" e fazendo alterações para sua funcionalidade de mudar senha e login e excluir conta.
 * Maria ficou responsáveil pelas telas de login e de cadastro, deixando-as funcianais pelo Localstore.
 * João Carmo, ficou responsável pela tela  "Adote um pet", responsividade e html feitos e critérios .
 * João Gomes, responsável pela tela "Cadastre um pet" deixando ela funcional de acordo com os pedidos da tela, podendo realizar cadastros.
