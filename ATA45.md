@@ -31,7 +31,7 @@ Todas as telas já estão feitas em html e css. Além de estarem todas responsiv
 * Maria ficou responsáveil pelas telas de login e de cadastro, deixando-as funcianais pelo Localstore.
 * João Carmo, ficou responsável pela tela  "Adote um pet", responsividade e html feitos e critérios .
 * João Gomes, responsável pela tela "Cadastre um pet" deixando ela funcional de acordo com os pedidos da tela, podendo realizar cadastros.
-* Nathan Araújo, ficou responsável pela tela principal do site, deixando funcional e responsivo.
+* Nathan Araújo, ficou responsável pela funcionalidade "pesquisar", além da tela principal do site, deixando funcional e responsiva.
 * Maria Luiza, ficou encarregada pela documentação da ata da etapa 4 e 5 contidas neste documento.
 
 ## GitHub 
