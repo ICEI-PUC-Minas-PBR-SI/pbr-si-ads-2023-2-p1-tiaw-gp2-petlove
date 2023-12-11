@@ -1,5 +1,5 @@
 # Ata Técnica - Projeto de Desenvolvimento de Aplicações Web 
-Data: 08 de novembro de 2023 
+Data: 10 dezembro de 2023 
 
 Local: Reunião Remota  
 
