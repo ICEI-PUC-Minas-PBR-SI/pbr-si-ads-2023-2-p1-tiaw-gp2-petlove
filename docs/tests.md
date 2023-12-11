@@ -58,8 +58,8 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
-
-|*Caso de Teste*                                 |*TC-01 - Criar uma conta e efetuar login*                                         |
+                                                                        
+**Caso de Teste** | *TC-01 - Criar uma conta e efetuar login*
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informa nome, sobrenome, email e senha "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
 **Requisitos associados** | RF-001
