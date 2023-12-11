@@ -77,6 +77,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-04 - Tela Petinder*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários que desejam achar companheiros para seus pets.|
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/8ab8a40f-d7df-4f06-834f-6de6bcb36cd8)
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/03ef5ade-18c1-4ba9-ac43-689acbdfc7e0)
+
+
+
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 ## teste de funcionalidade da tela "fale conosco"
