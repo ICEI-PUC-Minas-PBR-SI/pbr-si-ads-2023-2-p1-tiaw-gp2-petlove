@@ -61,7 +61,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
                                                                         
 **Caso de Teste** | **CT01 - Criar conta parte 1**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email e senha "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informará suas informações pessoais para criar seu cadastro.<br>2) Caso os dados estejam corretos ele passará para tela de login, no qual terá que digitar seu dados cadastrados para entrar no site.
 **Requisitos associados** | RF-001
 **Resultado esperado** | Prosseguir para a parte 2 do cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
