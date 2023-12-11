@@ -59,7 +59,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
                                                                         
-**Caso de Teste** | **CT01 - Criar Cadastro e Fazer Login**
+## **Caso de Teste** | **CT01 - Criar Cadastro e Fazer Login**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informará suas informações pessoais para criar seu cadastro.<br>2) Caso os dados estejam corretos ele passará para tela de login, no qual terá que digitar seu dados cadastrados para entrar no site.
 **Requisitos associados** | RF-001
