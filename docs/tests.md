@@ -2,7 +2,7 @@
 
 Neste projeto serão realizados dois tipos de testes:
 
- - O **Teste de Software**, que utiliza uma abordagem de caixa preta, e tem por objetivo verficar a conformidae do ofware co os requtsunoais e não funcionais do siste
+ - O **Teste de Software**, que utiliza uma abordagem de caixa preta, e tem por objetivo verificar a conformidae do ofware co os requtsunoais e não funcionais do siste
  - O **Teste de Usabilidade**, que busca avaliar a qualidade d uso do sistema or u suário d públco al
 
 Se quiser conhecer um pouco mais sobre os tipos de teste de software, leia o documento [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/).
