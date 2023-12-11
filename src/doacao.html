@@ -81,6 +81,35 @@
             <button type="submit">Enviar Doação</button>
         </form>
     </main>
-    <script src="doacao.js"></script>
+
+    <script>
+        function salvarDados(event) {
+            event.preventDefault();
+
+            var nomeCachorro = document.getElementById('nome_cachorro').value;
+            var idadeCachorro = document.getElementById('idade_cachorro').value;
+            var racaCachorro = document.getElementById('raca_cachorro').value;
+
+            var fotosCachorro = document.getElementById('fotos_cachorro');
+            var fotosFile = fotosCachorro.files[0];
+
+            var reader = new FileReader();
+            reader.onloadend = function () {
+                var fotosBase64 = reader.result;
+
+                var dados = {
+                    nomeCachorro: nomeCachorro,
+                    idadeCachorro: idadeCachorro,
+                    racaCachorro: racaCachorro,
+                    fotosBase64: fotosBase64
+                };
+
+                localStorage.setItem('dadosDoacao', JSON.stringify(dados));
+
+                window.location.href = 'menuprincipal.html';
+            };
+            reader.readAsDataURL(fotosFile);
+        }
+    </script>
 </body>
 </html>
