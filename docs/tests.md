@@ -84,7 +84,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/f05390f4-608d-422d-8dd7-c0e000980eee)
 
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: |  | 
 
 |*Caso de Teste*                                 |*TC-04 - Tela Petinder*                                         |
 |---|---|
@@ -94,7 +94,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | | 
 
 ## teste de funcionalidade da tela "fale conosco"
 |*Caso de Teste*                                 |*TC-05 - Tela fale conosco*                                         |
@@ -117,7 +117,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/8ee072f5-5cc3-4f43-967c-a8bfaaf43c67)
 
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: |  | 
 
 
 |*Caso de Teste*                                 |*TC-07 - Tela Adote um pet*                                         |
@@ -127,7 +127,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/65f3c667-3841-425f-9384-46b0a36dc7d0)
 
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: |  | 
 
 |*Caso de Teste*                                 |*TC-08 - Tela Cadastre um  pet*                                         |
 |---|---|
@@ -135,7 +135,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/bdc79eeb-9ebb-4f2d-ae04-7613a956cdad)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/db45d914-7c26-49bc-a2e4-af4d050aa6f8)
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: |  | 
 
 
 ## Avaliação dos Testes de Software
