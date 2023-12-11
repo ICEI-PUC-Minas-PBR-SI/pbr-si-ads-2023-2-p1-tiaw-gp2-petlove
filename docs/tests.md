@@ -100,6 +100,8 @@ Link do vídeo do teste realizado:|
 |*Caso de Teste*                                 |*TC-07 - Tela Adote um pet*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Direcionamento a tela  de adoção de pets.|
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/62ef5a8a-aa22-4d14-bb9a-e804860f4098)
+
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 |*Caso de Teste*                                 |*TC-08 - Tela Cadastre um  pet*                                         |
