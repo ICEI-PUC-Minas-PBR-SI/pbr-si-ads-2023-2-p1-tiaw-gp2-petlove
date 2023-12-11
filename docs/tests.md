@@ -85,7 +85,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 **Resultado obtido** | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/01280572-3ac4-4e63-b6c0-09aed39d5faf)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/fd77eed1-982a-49a5-aafc-058cf602d290)
-
+Link do vídeo do teste realizado:| 
 
 |*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
 |---|---|
