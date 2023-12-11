@@ -93,9 +93,9 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 **Procedimento**  | 1) Usuário informa nome, email e escreve a mensagem desejada para enviar pro site.2) A aplicação verifica se os dados são válidos e se sim a mensagem é enviada.
 **Requisitos associados** | RF-001
-**Resultado esperado**                  | Enviar mensagem para o site.
-**Dados de entrada**                    | Inserção de dados válidos no formulário de cadastro.
-**Resultado obtido**                    | Sucesso.
+**Resultado esperado**                          | Enviar mensagem para o site.
+**Dados de entrada**                            | Inserção de dados válidos no formulário de cadastro.
+**Resultado obtido**                            | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/01280572-3ac4-4e63-b6c0-09aed39d5faf)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/fd77eed1-982a-49a5-aafc-058cf602d290)
 Link do vídeo do teste realizado:| 
