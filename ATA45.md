@@ -36,7 +36,7 @@ Todas as telas já estão feitas em html e css. Além de estarem todas responsiv
 
 ## GitHub 
 
-Todas as telas foram upadas no git, atualizdas na branch develop. A equipe concordou em manter todas as atualizações documentadas no GitHub para facilitar o acompanhamento do projeto.  
+Todas as telas foram upadas no git, atualizadas na branch develop. A equipe concordou em manter todas as atualizações documentadas no GitHub para facilitar o acompanhamento do projeto.  
 
 ## Próximos Passos 
 
