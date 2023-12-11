@@ -119,7 +119,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 
 ## Apagar ou Mudar Dados da Conta
 
-|*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
+|*Caso de Teste*                                 |*TC-05 - Tela Excluir e modificar conta*                                         |
 |---|---|
 **Procedimento**  | 1) Tela destinada para o usuário trocar seu email, senha ou até mesmo excluir sua conta.
 **Requisitos associados** | RF-004
