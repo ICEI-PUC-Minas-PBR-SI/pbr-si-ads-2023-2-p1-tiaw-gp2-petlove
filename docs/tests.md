@@ -61,7 +61,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
                                                                         
 **Caso de Teste** | **CT01 - Criar Cadastro e Fazer Login**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informará suas informações pessoais para criar seu cadastro.<br>2) Caso os dados estejam corretos ele passará para tela de login, no qual terá que digitar seu dados cadastrados para entrar no site.
+**Procedimento**  | 1) O usuário informará suas informações pessoais para criar seu cadastro.<br>2) Caso os dados estejam corretos ele passará para tela de login, no qual terá que digitar seu dados cadastrados para entrar no site.
 **Requisitos associados** | RF-001
 **Resultado esperado** | Prosseguir para a parte 2 do cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
