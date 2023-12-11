@@ -138,7 +138,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/bdc79eeb-9ebb-4f2d-ae04-7613a956cdad)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/db45d914-7c26-49bc-a2e4-af4d050aa6f8)
 
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AgggDy5bKcnSgd5oIb5ubU6-eTuQ9w?e=r9Ox2U | 
 
 
 ## Avaliação dos Testes de Software
