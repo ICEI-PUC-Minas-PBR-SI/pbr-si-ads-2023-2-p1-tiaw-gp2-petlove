@@ -90,7 +90,10 @@ Link do vídeo do teste realizado:|
 |*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários autenticados e que desejam mudar senha e email, ou que desejam excluir  sua conta.|
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/b656f942-8fb6-4805-9633-4f1c8de14e4f)
+
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
 
 |*Caso de Teste*                                 |*TC-07 - Tela Adote um pet*                                         |
 |---|---|
@@ -100,6 +103,8 @@ Link do vídeo do teste realizado:|
 |*Caso de Teste*                                 |*TC-08 - Tela Cadastre um  pet*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários que pretendem fazer o cadstro de seus pets no site.|
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/db45d914-7c26-49bc-a2e4-af4d050aa6f8)
+
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 
