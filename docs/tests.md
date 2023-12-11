@@ -59,7 +59,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
                                                                         
-## **Caso de Teste** | **CT01 - Criar Cadastro e Fazer Login**
+**Caso de Teste** | **CT01 - Criar Cadastro e Fazer Login**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informará suas informações pessoais para criar seu cadastro.<br>2) Caso os dados estejam corretos ele passará para tela de login, no qual terá que digitar seu dados cadastrados para entrar no site.
 **Requisitos associados** | RF-001
@@ -73,7 +73,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Link do vídeo do teste realizado: |https://1drv.ms/v/s!AgggDy5bKcnSgd5l9cxGQEPL2Gsk_Q?e=i0SLmF| 
 
 
-|*Caso de Teste*                                 |*TC-03 - Tela Principal*                                         |
+|*Caso de Teste*                                 |*TC-02 - Tela Principal*                                         |
 |---|---|
 **Procedimento**  | 1) Usuário já cadastrado e autenticado, poderá escolher qual ferramenta da plataforma deseja utilizar.
 **Requisitos associados** | RF-001
@@ -84,9 +84,9 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/f05390f4-608d-422d-8dd7-c0e000980eee)
 
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AgggDy5bKcnSgd5n6y7U7GPiqheFFg?e=UP7lJo | 
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*TC-04 - Tela Petinder*                                         |
+|*Caso de Teste*                                 |*TC-03 - Tela Petinder*                                         |
 |---|---|
 **Procedimento**  | 1) O Usuário poderá escolher se deseja dar "match" ou não dar match com o Pet que está aparecendo para ele, clicando nos dois botões.
 **Requisitos associados** | RF-001
@@ -100,14 +100,13 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Link do vídeo do teste realizado: | | 
 
 ## teste de funcionalidade da tela "fale conosco"
-|*Caso de Teste*                                 |*TC-05 - Tela fale conosco*                                         |
+|*Caso de Teste*                                 |*TC-04 - Tela fale conosco*                                         |
 |---|---|
-**Procedimento**  | 1) Usuário informa nome, email e escreve a mensagem desejada para enviar pro site.2) A aplicação verifica se os dados são válidos e se sim a mensagem é enviada.
+**Procedimento**  | 1) O Cliente preencherá com seus dados uma pequena lista juntamente com uma mensagem para comunicar com o site, seja de dicas ou problemas.
 **Requisitos associados** | RF-001
-**Resultado esperado**                          | Enviar mensagem para o site.
-**Dados de entrada**                            | Inserção de dados válidos no formulário de cadastro.
-**Resultado obtido**                            | Sucesso.
-
+**Resultado esperado** | Enviar a mensagem com sucesso e para os donos da plataforma.
+**Dados de entrada** | Inserção de dados válidos e uma mensagem que deseja.
+**Resultado obtido** | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/01280572-3ac4-4e63-b6c0-09aed39d5faf)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/fd77eed1-982a-49a5-aafc-058cf602d290)
 
