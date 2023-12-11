@@ -9,7 +9,7 @@ Se quiser conhecer um pouco mais sobre os tipos de teste de software, leia o doc
 
 A documentação dos testes é dividida nas seguintes seções:
 
- - [Plano de Testes de Software](#plano-de-testes-de-software)
+ - [Plano de Testes de Software](#plano-de-testes-de-software)W
  - [Registro dos Testes de Software](#registro-dos-testes-de-software)
  - [Avaliação dos Testes de Software](#avaliação-dos-testes-de-software)
  - [Cenários de Teste de Usabilidade](#cenários-de-teste-de-usabilidade)
