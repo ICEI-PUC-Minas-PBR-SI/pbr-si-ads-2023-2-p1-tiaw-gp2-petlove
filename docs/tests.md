@@ -84,11 +84,14 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/f05390f4-608d-422d-8dd7-c0e000980eee)
 
 
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 |*Caso de Teste*                                 |*TC-04 - Tela Petinder*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários que desejam achar companheiros para seus pets.|
+**Procedimento**  | 1) O Usuário poderá escolher se deseja dar "match" ou não dar match com o Pet que está aparecendo para ele, clicando nos dois botões.
+**Requisitos associados** | RF-001
+**Resultado esperado** | Conectar casais de Pets para se avaliarem.
+**Resultado obtido** | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/8ab8a40f-d7df-4f06-834f-6de6bcb36cd8)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/03ef5ade-18c1-4ba9-ac43-689acbdfc7e0)
 
