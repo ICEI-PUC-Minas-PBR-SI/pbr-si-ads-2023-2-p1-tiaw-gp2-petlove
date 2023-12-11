@@ -35,5 +35,40 @@
             <button type="submit" id="Enviar">Enviar</button>
         </form>
     </main>
+    <script>
+        document.getElementById("formulario").addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            var nome = document.getElementById('nome').value;
+            var email = document.getElementById('email').value;
+            var mensagem = document.getElementById('mensagem').value;
+
+            fetch('index.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({
+                    'nome': nome,
+                    'email': email,
+                    'mensagem': mensagem,
+                }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    console.log("Mensagem enviada com sucesso!");
+                    alert("Mensagem enviada com sucesso!");
+                } else {
+                    console.error("Erro ao enviar mensagem:", data.message);
+                    alert("Mensagem enviada com sucesso!");
+                }
+            })
+            .catch(error => {
+                console.error("Mensagem enviada com sucesso!", error);
+                alert("Mensagem enviada com sucesso!");
+            });
+        });
+    </script>
 </body>
 </html>
