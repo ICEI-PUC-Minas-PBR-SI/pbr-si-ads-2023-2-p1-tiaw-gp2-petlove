@@ -69,6 +69,8 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado | RF-004 - Usuários já logados e cadstrados podem direcionar seus objetivos no site.|
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/c1887095-451a-40c9-b000-806d3ebebeae)
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/f05390f4-608d-422d-8dd7-c0e000980eee)
+
 
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
