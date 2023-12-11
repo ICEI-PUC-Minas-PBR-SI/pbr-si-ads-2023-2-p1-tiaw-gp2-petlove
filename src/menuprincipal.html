@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,8 +56,8 @@
     <header class="header-top">
         <div class="search-bar">
             <img src="https://1.bp.blogspot.com/_bKI6wlklZBQ/TRcofeElnII/AAAAAAAAAv8/SJsDop_OnM8/s1600/cachorros015.gif" alt="Cachorro animado" style="max-width: 100px; margin: 0 auto 20px; display: block;">
-            <input type="text" placeholder="Pesquisar pets por nome, raça, etc.">
-            <button class="search-button"><i class="fas fa-search"></i> Pesquisar</button>
+            <input type="text" id="searchInput" placeholder="Pesquisar pets por nome, raça, etc.">
+            <button class="search-button" onclick="searchPets()"><i class="fas fa-search"></i> Pesquisar</button>
         </div>
     </header>
     <div class="buttons-container">
@@ -139,6 +141,21 @@
             dadosAntigos.forEach(function (dados, index) {
                 var card = criarCard(dados);
                 cardsSection.appendChild(card);
+            });
+        }
+
+        function searchPets() {
+            var searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            var cards = document.querySelectorAll('.card');
+            cards.forEach(function(card) {
+                var petName = card.querySelector('h2').innerText.toLowerCase();
+                var petBreed = card.querySelector('p:nth-child(3)').innerText.toLowerCase();
+
+                if (petName.includes(searchTerm) || petBreed.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
             });
         }
 
