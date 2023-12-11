@@ -108,7 +108,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/01280572-3ac4-4e63-b6c0-09aed39d5faf)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142853515/fd77eed1-982a-49a5-aafc-058cf602d290)
 
-Link do vídeo do teste realizado:| https://photos.google.com/search/_tra_/photo/AF1QipPbKKcCsb12DvVZMUFqym4WAyp78Q-Oaa_FSgv8
+Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2fW7UEg?e=DxXa5i
 
 |*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
 |---|---|
