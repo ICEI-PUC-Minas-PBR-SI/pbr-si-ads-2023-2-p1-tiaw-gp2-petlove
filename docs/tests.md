@@ -84,7 +84,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/f05390f4-608d-422d-8dd7-c0e000980eee)
 
 
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AgggDy5bKcnSgd5kq6Di_gD5O8uffA?e=9Gres0 | 
 
 |*Caso de Teste*                                 |*TC-04 - Tela Petinder*                                         |
 |---|---|
