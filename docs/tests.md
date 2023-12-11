@@ -134,7 +134,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 
 ## Adote um Pet
 
-|*Caso de Teste*                                 |*TC-07 - Tela Adote um pet*                                         |
+|*Caso de Teste*                                 |*TC-06 - Tela Adote um pet*                                         |
 |---|---|
 **Procedimento**  | 1) Tela na qual mostra os Pets que estão disponíveis para adoção.
 **Requisitos associados** | RF-004
