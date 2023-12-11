@@ -148,7 +148,7 @@ Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2
 
 ## Cadastre Um Pet
 
-|*Caso de Teste*                                 |*TC-08 - Tela Cadastre um  pet*                                         |
+|*Caso de Teste*                                 |*TC-07 - Tela Cadastre um  pet*                                         |
 **Procedimento**  | 1) O cliente preencherá uma lista com dados e informações juntamente com fotos do cachorro no qual deseja cadastrar na plataforma.
 **Requisitos associados** | RF-004
 **Resultado esperado** | Cadastrar em nosso site o animal.
