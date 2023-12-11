@@ -55,7 +55,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 
 
-## Registro dos Testes de Software
+## Teste de funcionalidade cadastro petinder
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
                                                                         
@@ -70,7 +70,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/c3ca3f7e-297b-42c2-8a7b-28009aae79e9)
 
 
-|Link do vídeo do teste realizado: || 
+|Link do vídeo do teste realizado: |https://1drv.ms/v/s!AgggDy5bKcnSgd5l9cxGQEPL2Gsk_Q?e=i0SLmF| 
 
 
 |*Caso de Teste*                                 |*TC-03 - Tela Principal*                                         |
