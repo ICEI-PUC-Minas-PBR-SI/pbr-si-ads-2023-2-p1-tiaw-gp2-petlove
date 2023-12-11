@@ -7,7 +7,7 @@ Neste projeto serão realizados dois tipos de testes:
 
 Se quiser conhecer um pouco mais sobre os tipos de teste de software, leia o documento [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/).
 
-A documentação dos testes é dividida nas seguintes seções
+A documentação dos testes é dividida nas seguintes seções:
 
  - [Plano de Testes de Software](#plano-de-testes-de-software)
  - [Registro dos Testes de Software](#registro-dos-testes-de-software)
