@@ -58,6 +58,15 @@
     </style>
 </head>
 <body>
+        <input type="checkbox" id="menu__toggle">
+    <label for="menu__toggle" class="menu__btn">
+        <span></span>
+    </label>
+    <ul class="menu__box">
+        <li class="menu__item"><a href="faleconosco.html">Fale Conosco</a></li>
+        <li class="menu__item"><a href="Alterar dados.html">Sua conta</a></li>
+        <li class="menu__item"><a href="menuprincipal.html">Home</a></li>
+    </ul>
     <header>
         <h1>Doação de Animal</h1>
     </header>
@@ -81,35 +90,6 @@
             <button type="submit">Enviar Doação</button>
         </form>
     </main>
-
-    <script>
-        function salvarDados(event) {
-            event.preventDefault();
-
-            var nomeCachorro = document.getElementById('nome_cachorro').value;
-            var idadeCachorro = document.getElementById('idade_cachorro').value;
-            var racaCachorro = document.getElementById('raca_cachorro').value;
-
-            var fotosCachorro = document.getElementById('fotos_cachorro');
-            var fotosFile = fotosCachorro.files[0];
-
-            var reader = new FileReader();
-            reader.onloadend = function () {
-                var fotosBase64 = reader.result;
-
-                var dados = {
-                    nomeCachorro: nomeCachorro,
-                    idadeCachorro: idadeCachorro,
-                    racaCachorro: racaCachorro,
-                    fotosBase64: fotosBase64
-                };
-
-                localStorage.setItem('dadosDoacao', JSON.stringify(dados));
-
-                window.location.href = 'menuprincipal.html';
-            };
-            reader.readAsDataURL(fotosFile);
-        }
-    </script>
+    <script src="doacao.js"></script>
 </body>
 </html>
