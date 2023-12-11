@@ -72,6 +72,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |Link do vídeo do teste realizado: |https://1drv.ms/v/s!AgggDy5bKcnSgd5l9cxGQEPL2Gsk_Q?e=i0SLmF| 
 
+## Menu Principal
 
 |*Caso de Teste*                                 |*TC-02 - Tela Principal*                                         |
 |---|---|
@@ -86,6 +87,8 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
+## Petinder
+
 |*Caso de Teste*                                 |*TC-03 - Tela Petinder*                                         |
 |---|---|
 **Procedimento**  | 1) O Usuário poderá escolher se deseja dar "match" ou não dar match com o Pet que está aparecendo para ele, clicando nos dois botões.
@@ -98,6 +101,8 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 
 |Link do vídeo do teste realizado: | | 
+
+## Fale Conosco
 
 ## teste de funcionalidade da tela "fale conosco"
 |*Caso de Teste*                                 |*TC-04 - Tela fale conosco*                                         |
@@ -112,28 +117,43 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 Link do vídeo do teste realizado:| https://1drv.ms/v/s!AgggDy5bKcnSgd5hT_rGdBN2fW7UEg?e=DxXa5i
 
+## Apagar ou Mudar Dados da Conta
+
 |*Caso de Teste*                                 |*TC-06 - Tela Excluir e modificar conta*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários autenticados e que desejam mudar senha e email, ou que desejam excluir  sua conta.|
+**Procedimento**  | 1) Tela destinada para o usuário trocar seu email, senha ou até mesmo excluir sua conta.
+**Requisitos associados** | RF-004
+**Resultado esperado** | Fazer uma modificação desejada nos dados da conta do usúario.
+**Dados de entrada** | Inserção de dados para troca do mesmo.
+**Resultado obtido** | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/b656f942-8fb6-4805-9633-4f1c8de14e4f)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/8ee072f5-5cc3-4f43-967c-a8bfaaf43c67)
 
 
 |Link do vídeo do teste realizado: |  | 
 
+## Adote um Pet
 
 |*Caso de Teste*                                 |*TC-07 - Tela Adote um pet*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Direcionamento a tela  de adoção de pets.|
+**Procedimento**  | 1) Tela na qual mostra os Pets que estão disponíveis para adoção.
+**Requisitos associados** | RF-004
+**Resultado esperado** | Mostrar o usuário opções disponíveis.
+**Resultado obtido** | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/62ef5a8a-aa22-4d14-bb9a-e804860f4098)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/65f3c667-3841-425f-9384-46b0a36dc7d0)
 
 
 |Link do vídeo do teste realizado: |  | 
 
+## Cadastre Um Pet
+
 |*Caso de Teste*                                 |*TC-08 - Tela Cadastre um  pet*                                         |
-|---|---|
-|Requisito Associado | RF-004 - Usuários que pretendem fazer o cadstro de seus pets no site.|
+**Procedimento**  | 1) O cliente preencherá uma lista com dados e informações juntamente com fotos do cachorro no qual deseja cadastrar na plataforma.
+**Requisitos associados** | RF-004
+**Resultado esperado** | Cadastrar em nosso site o animal.
+**Dados de entrada** | Inserção de dados válidos e uma foto do animal pertencido.
+**Resultado obtido** | Sucesso.
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/bdc79eeb-9ebb-4f2d-ae04-7613a956cdad)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/db45d914-7c26-49bc-a2e4-af4d050aa6f8)
 
