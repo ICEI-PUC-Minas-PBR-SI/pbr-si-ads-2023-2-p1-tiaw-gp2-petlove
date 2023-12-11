@@ -49,9 +49,6 @@ A equipe concordou em realizar uma reunião subsequente para discutir os próxim
 * Organização da apresentação.
 
 
-## Próxima Reunião 
-
-Data: A ser agendada após a conclusão das tarefas atribuídas. 
 
 ## Encerramento
 
