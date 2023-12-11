@@ -75,6 +75,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-004 - Usuários que desejam achar companheiros para seus pets.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
+## teste de funcionalidade da tela "fale conosco"
 |*Caso de Teste*                                 |*TC-05 - Tela fale conosco*                                         |
 |---|---|
 **Procedimento**  | 1) Usuário informa nome, email e escreve a mensagem desejada para enviar pro site.2) A aplicação verifica se os dados são válidos e se sim a mensagem é enviada.
