@@ -50,29 +50,32 @@ document.getElementById("alterar_senha").addEventListener("click", (event) => {
 });
 
 document.getElementById("excluir_conta").addEventListener("click", (event) => {
-
     event.preventDefault(); // Impede o envio do formulário
-
 
     var confirmacao = confirm("Tem certeza de que deseja excluir sua conta? Esta ação é irreversível.");
 
     if (confirmacao) {
-
+        var email_login = localStorage.getItem('emailLogado');
         var usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
 
-        var indiceUsuario = usuariosSalvos.findIndex(x => x.email == email);
+        // Verificar se o usuário está logado
+        if (email_login) {
+            var indiceUsuario = usuariosSalvos.findIndex(x => x.email == email_login);
 
-        if (indiceUsuario !== -1) {
+            if (indiceUsuario !== -1) {
+                usuariosSalvos.splice(indiceUsuario, 1);
 
-            usuariosSalvos.splice(indiceUsuario, 1);
+                localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
+                localStorage.removeItem('emailLogado');
+                localStorage.removeItem('senhaLogada');
 
-            localStorage.setItem('dados', JSON.stringify(usuariosSalvos));
-
-            alert('Conta excluída com sucesso!');
-
-            window.location.href = "./cadastro.html";
+                alert('Conta excluída com sucesso!');
+                window.location.href = "./cadastro.html";
+            } else {
+                alert('Usuário não encontrado');
+            }
         } else {
-            alert('Usuário não encontrado');
+            alert('Usuário não está logado. Faça login para excluir a conta.');
         }
     }
 });
