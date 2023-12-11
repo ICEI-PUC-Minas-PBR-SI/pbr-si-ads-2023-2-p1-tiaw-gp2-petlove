@@ -61,6 +61,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-01 - Criar uma conta e efetuar login*                                         |
 |---|---|
+**Procedimento**  | 1) Usuário informa seu email e senha cadastrados  e clica em "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
+**Requisitos associados** | RF-001
+**Resultado esperado** | Criação de cadastro
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Resultado obtido** | Sucesso.
 |Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/2f3bc611-9db9-4fbb-9764-acd5a8bf9e46)
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/c3ca3f7e-297b-42c2-8a7b-28009aae79e9)
