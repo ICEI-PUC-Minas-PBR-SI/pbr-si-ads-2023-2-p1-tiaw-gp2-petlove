@@ -43,7 +43,7 @@ Todas as telas foram upadas no git, atualizadas na branch develop. A equipe conc
 A equipe concordou em realizar uma reunião subsequente para discutir os próximos passos,  a integração das telas com o back-end e funcionalidaes postas. A data da próxima reunião será definida posteriormente. Metas previstas para a reunião que foram paltadas para discutir e organizar:
 * Organização das telas.
 * Upar telas de testes.
-* Zig do trabalho postado.
+* Zip do trabalho postado.
 * Vercel (url navegavél).
 * Video do site funcional
 * Organização da apresentação.
