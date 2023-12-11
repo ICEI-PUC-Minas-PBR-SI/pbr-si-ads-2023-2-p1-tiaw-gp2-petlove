@@ -103,6 +103,8 @@ Link do vídeo do teste realizado:|
 |---|---|
 |Requisito Associado | RF-004 - Direcionamento a tela  de adoção de pets.|
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/62ef5a8a-aa22-4d14-bb9a-e804860f4098)
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-gp2-petlove/assets/142856277/65f3c667-3841-425f-9384-46b0a36dc7d0)
+
 
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
