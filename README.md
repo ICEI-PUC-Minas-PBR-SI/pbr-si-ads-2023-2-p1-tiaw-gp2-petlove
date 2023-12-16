@@ -23,7 +23,7 @@ Bem-vindo ao PetLove, onde a tecnologia encontra a paixão por pets. Facilitando
 
 ## Orientador
 
-* Nome completo do professor 1
+* Franciele Cristina Parreiras Rodrigues 
 
 # Planejamento
 
