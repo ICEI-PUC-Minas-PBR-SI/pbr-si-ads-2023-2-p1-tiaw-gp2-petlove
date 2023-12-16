@@ -271,7 +271,7 @@ Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrep�
 
 Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
 
-| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+| Usuário | Tela |
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             | 5                    | 22.54 segundos                          |
 | 2       | SIM             | 5                    | 31.42 segundos                          |
