@@ -1,20 +1,5 @@
 # Testes
 
-Neste projeto serão realizados dois tipos de testes, sendo eles:
-
- - O **Teste de Software**, que utiliza uma abordagem de caixa preta, e tem por objetivo verificar a conformidade do software com os requisitos funcionais e não funcionais do sistema.
- - E o **Teste de Usabilidade**, que busca avaliar a qualidade do uso do sistema para o usuário e público.
-
-Se quiser conhecer um pouco mais sobre os tipos de teste de software, leia o documento [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/).
-
-A documentação dos testes é dividida nas seguintes seções:
-
- - [Plano de Testes de Software](#plano-de-testes-de-software)
- - [Registro dos Testes de Software](#registro-dos-testes-de-software)
- - [Avaliação dos Testes de Software](#avaliação-dos-testes-de-software)
- - [Cenários de Teste de Usabilidade](#cenários-de-teste-de-usabilidade)
- - [Registro dos Testes de Usabilidade](#registro-dos-testes-de-usabilidade)
- - [Avaliação dos Testes de Usabilidade](#avaliação-dos-testes-de-usabilidade)
 
 # Teste de Software
 
@@ -22,7 +7,7 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 
 ## Plano de Testes de Software
 
-Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
+
 
 ## Testes de funcionalidade das telas login e cadastro
 
