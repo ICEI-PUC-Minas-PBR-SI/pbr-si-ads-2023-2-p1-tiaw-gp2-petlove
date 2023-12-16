@@ -24,6 +24,7 @@ Bem-vindo ao PetLove, onde a tecnologia encontra a paixão por pets. Facilitando
 ## Orientador
 
 * Franciele Cristina Parreiras Rodrigues 
+* Clóvis Lemos Tavares
 
 # Planejamento
 
