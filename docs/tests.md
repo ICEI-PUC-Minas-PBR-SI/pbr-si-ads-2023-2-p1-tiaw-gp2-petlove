@@ -271,10 +271,10 @@ Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrep�
 
 Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
 
-| Integrantes | Tela |
-|-------------|------|
-| Maria Luiza Mendes Matos   | Tela de cadastro "PeTinder" |
-| Camila Moreira Pessoa      | Tela "Fale Conosco"         |
+| Professores | Integrantes | Tela |
+|-------------|-------------|------|
+| Franciele Cristina Parreira Rodrigues | Maria Luiza Mendes Matos   | Tela de cadastro "PeTinder" |
+| | Camila Moreira Pessoa      | Tela "Fale Conosco"         |
 | Samuel Santos Maciel       | Tela "Alterar Senha"        |
 | João Pedro Carmo Lopes     | Tela "Adote um pet"         |
 | Nathan Araújo Godinho      | Tela Documentação do GitHub |
