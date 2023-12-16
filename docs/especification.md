@@ -64,14 +64,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
 |RF-001|Sistema deverá cadastrar e criar um perfil no site disponibilizando os dados do usuario | ALTA |Maria Luiza|
-|RF-002|Usuario poderá filtrar perfis e escolher qual pet de seu interesse| ALTA ||
-|RF-003|Usuario podera escolher qual meio e tipo de topico escolher, entre adoção, troca de informações, vendas e encontrar um pet para acasalar  | MÉDIA ||
-|RF-004|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA ||
-|RF-005|Sistema de Reservas de pet agendado por Data e Localidade::| MÉDIA |
-|RF-006|Geração de Recibos e Comprovantes de Pagamento apos a compra ::| MÉDIA |
-|RF-007|Opção de bate papo entra tutores:| MÉDIA |
-|RF-008|Opção de Comentários e Feedback para Serviços Prestados:| MÉDIA |
-|RF-009|O sistema deverá fornecer segurança no armazenamento dos dados| MÉDIA |
+|RF-002|Sistema deverá logar  no site disponibilizando os dados do usuario | ALTA |João Pedro |
+|RF-003|Opção de Comentários e Feedback para Serviços Prestados, Fale conosco:| MÉDIA |Camila Moreira |
+|RF-003|Usuario podera escolher qual meio e tipo de topico escolher, entre adoção, troca de informações, vendas e encontrar um pet para acasalar  | MÉDIA |Caio Henrique|
+|RF-004|Opção deadoção de pets:| MÉDIA |João Carmo/Nathan Araújo|
+|RF-005|O sistema deverá fornecer segurança no armazenamento dos dados| MÉDIA |Vitor Santana|
 
 
 
