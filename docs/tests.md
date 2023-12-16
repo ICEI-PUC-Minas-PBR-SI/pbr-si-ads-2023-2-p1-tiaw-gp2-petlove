@@ -272,7 +272,7 @@ Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrep�
 Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
 
 | Integrantes | Tela |
-|---------|------|
+|-------------|------|
 | Maria Luiza Mendes Matos | Você é uma pessoa que deseja adotar um gato adulto. Encontre no site um gato adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação. |
 | 2             |Você é uma pessoa que deseja adotar um cachorro adulto. Encontre no site um cachorro adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
 | 3            |Você é uma pessoa que deseja encontrar um parceiro ao seu cachorro. Encontre no site um cachorro que combine com  seu pet e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
