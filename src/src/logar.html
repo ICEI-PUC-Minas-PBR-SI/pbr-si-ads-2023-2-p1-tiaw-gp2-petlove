@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro - Tinder para Cachorros</title>
+    <style>
+        body {
+            width: 100%;
+
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0 auto;
+            padding: 0px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+
+        }
+
+        .container {
+            text-align: center;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+
+        }
+
+        h1 {
+            color: rgb(255, 134, 126);
+            font-size: 2.5rem;
+            margin-bottom: 40px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 25px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+        .submit-button {
+            background-color: rgb(255, 134, 126);
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+
+
+
+        }
+
+        .existing-user-button {
+            background-color: rgb(255, 134, 126);
+            color: #fff;
+            border: none;
+            padding: 15px 60px;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+
+
+
+
+        }
+
+        .existing-user-button:hover {
+            background-color: #999;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Login</h1>
+        <form>
+
+            <input id="emailRequisitado" type="email" placeholder="Email" required>
+            <input id="senhaPassword" type="password" placeholder="Senha" required>
+
+            <a id="entrarBtn" class="existing-user-button">Entrar</a>
+
+        </form>
+    </div>
+</body>
+<script>
+    document.getElementById("entrarBtn").addEventListener("click", () => {
+        var email = document.getElementById('emailRequisitado').value
+        var senha = document.getElementById('senhaPassword').value
+
+        const usuariosSalvos = JSON.parse(localStorage.getItem('dados'));
+        var user = usuariosSalvos.find(x => x.email == email)
+
+        if (user != undefined) {
+            if (email == user.email) {
+                if (senha === user.senha) {
+                    alert(`Bem vindo ${user.name}`)
+                    localStorage.setItem('emailLogado', email);
+                    localStorage.setItem('senhaLogada', senha);
+                    window.location.href = "./menuprincipal.html"
+                } else {
+                    alert(" Senha invalida")
+                }
+            } else {
+                alert("Email invalido")
+            }
+        } else {
+            alert("Usuário não encontrado")
+        }
+    })
+</script>
+
+</html>

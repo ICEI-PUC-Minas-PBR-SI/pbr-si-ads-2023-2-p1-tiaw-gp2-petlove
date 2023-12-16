@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petinder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: rgb(255, 134, 126);
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 50px;
+        }
+        .profile-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .profile-card img {
+            max-width: 100%;
+            height: auto; /* Garante que a altura seja ajustada proporcionalmente à largura */
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: rgb(255, 134, 126);
+        }
+        p {
+            color: #444;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .nav-buttons button {
+            border: none;
+            padding: 15px 30px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #nao-match-button {
+            background-color: red;
+            color: #fff;
+        }
+        #match-button {
+            background-color: green;
+            color: #fff;
+        }
+        .nav-buttons button:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="menuprincipal.html"><img
+                src=https://1.bp.blogspot.com/_bKI6wlklZBQ/TRcofeElnII/AAAAAAAAAv8/SJsDop_OnM8/s1600/cachorros015.gif
+                alt="Cachorro animado"></a>
+        <h1>Petinder</h1>
+    </header>
+    <div class="container">
+        <div class="profile-card">
+            <!-- Informações do pet serão inseridas aqui pelo JavaScript -->
+        </div>
+        <div class="nav-buttons">
+            <button id="nao-match-button">Não Match</button>
+            <button id="match-button">Match</button>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Recupera os dados do Local Storage
+            var dadosDoacao = localStorage.getItem('dadosDoacao');
+            
+            if (dadosDoacao) {
+                // Converte os dados de string JSON para objeto JavaScript
+                var dados = JSON.parse(dadosDoacao);
+
+                // Cria elementos HTML para exibir as informações do pet
+                var petInfoContainer = document.querySelector('.profile-card');
+                var petInfoHTML = `
+                    <img src="${dados.fotosBase64}" alt="Foto do PET">
+                    <h2>${dados.nomeCachorro}</h2>
+                    <p>Idade: ${dados.idadeCachorro}</p>
+                    <p>Raça: ${dados.racaCachorro}</p>
+                `;
+                
+                // Adiciona o HTML ao contêiner
+                petInfoContainer.innerHTML = petInfoHTML;
+
+                // Adiciona manipuladores de evento aos botões
+                document.getElementById("nao-match-button").addEventListener("click", function () {
+                    alert("Não Match!"); // Adicione aqui a lógica desejada para "Não Match"
+                });
+
+                document.getElementById("match-button").addEventListener("click", function () {
+                    alert("Match!"); // Adicione aqui a lógica desejada para "Match"
+                });
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doação de Animal</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: rgb(255, 134, 126);
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center; /* Para alinhar verticalmente */
+        }
+       
+        h1 {
+            font-size: 24px;
+            margin: 0; /* Remover a margem padrão do título */
+        }
+
+        main {
+            width: 80%;
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        input,
+        textarea {
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+
+        button {
+            background-color: rgb(255, 134, 126);
+            color: #fff;
+            border: none;
+            padding: 15px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            margin: 30px 0;
+        }
+
+        button:hover {
+            background-color: rgb(255, 134, 126);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a href="menuprincipal.html"><img
+                src=https://1.bp.blogspot.com/_bKI6wlklZBQ/TRcofeElnII/AAAAAAAAAv8/SJsDop_OnM8/s1600/cachorros015.gif
+                alt="Cachorro animado"></a>
+        <h1>Doação de Animal</h1>
+    </header>
+    <main>
+        <form onsubmit="salvarDados(event)">
+            <label for="nome_cachorro">Nome do PET:</label>
+            <input type="text" id="nome_cachorro" name="nome_cachorro" required>
+
+            <label for="idade_cachorro">Idade do PET:</label>
+            <input type="text" id="idade_cachorro" name="idade_cachorro" required>
+
+            <label for="raca_cachorro">Raça do PET:</label>
+            <input type="text" id="raca_cachorro" name="raca_cachorro" required>
+
+            <label for="fotos_cachorro">Fotos do PET:</label>
+            <input type="file" id="fotos_cachorro" name="fotos_cachorro" multiple accept="image/*" required>
+
+            <label for="curiosidades_cachorro">Curiosidades sobre o PET:</label>
+            <textarea id="curiosidades_cachorro" name="curiosidades_cachorro" rows="4" required></textarea>
+
+            <button type="submit">Enviar Doação</button>
+        </form>
+    </main>
+
+    <script>
+        function salvarDados(event) {
+            event.preventDefault();
+
+            var nomeCachorro = document.getElementById('nome_cachorro').value;
+            var idadeCachorro = document.getElementById('idade_cachorro').value;
+            var racaCachorro = document.getElementById('raca_cachorro').value;
+
+            var fotosCachorro = document.getElementById('fotos_cachorro');
+            var fotosFile = fotosCachorro.files[0];
+
+            var reader = new FileReader();
+            reader.onloadend = function () {
+                var fotosBase64 = reader.result;
+
+                var dados = {
+                    nomeCachorro: nomeCachorro,
+                    idadeCachorro: idadeCachorro,
+                    racaCachorro: racaCachorro,
+                    fotosBase64: fotosBase64
+                };
+
+                localStorage.setItem('dadosDoacao', JSON.stringify(dados));
+
+                window.location.href = 'menuprincipal.html';
+            };
+            reader.readAsDataURL(fotosFile);
+        }
+    </script>
+</body>
+
+</html>

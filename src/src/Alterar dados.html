@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Conta</title>
+    <link rel="stylesheet"  href="style alterar dados.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        
+        <h1>Sua Conta</h1>
+        
+        <input type="checkbox" id="menu__toggle">
+    <label for="menu__toggle" class="menu__btn">
+        <span></span>
+    </label>
+    <ul class="menu__box">
+        <li class="menu__item"><a href="faleconosco.html">Fale Conosco</a></li>
+        <li class="menu__item"><a href="Alterar dados.html">Sua conta</a></li>
+        <li class="menu__item"><a href="menuprincipal.html">Home</a></li>
+    </ul>
+    </header>
+    <main>
+        <h2>Alterar Email</h2>
+        <form action="alterar_email.php" method="post">
+            <label for="email">Digite seu Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="novo_email">Novo Email:</label>
+            <input type="email" id="novo_email" name="novo_email" required>
+
+            <button id="alterar_email" type="submit">Alterar Email</button>
+        </form>
+
+        <h2>Alterar Senha</h2>
+        <form action="alterar_senha.php" method="post">
+            <label for="senha">Digite sua senha:</label>
+            <input type="password" id="senha" name="senha" required>
+            <label for="nova_senha">Nova Senha:</label>
+            <input type="password" id="nova_senha" name="nova_senha" required>
+
+            <button id="alterar_senha" type="submit">Alterar Senha</button>
+        </form>
+
+        <h2>Excluir Conta</h2>
+        <form action="excluir_conta.php" method="post">
+            <p>Tem certeza de que deseja excluir sua conta? Esta ação é irreversível.</p>
+
+            <button id="excluir_conta" type="submit">Excluir Conta</button>
+        </form>
+    </main>
+    <script src="scriptAlterarDados.js"></script>
+</body>
+</html>
