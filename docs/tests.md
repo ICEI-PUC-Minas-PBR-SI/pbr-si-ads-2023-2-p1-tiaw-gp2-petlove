@@ -274,7 +274,7 @@ Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundo
 | Professores | Integrantes | Tela |
 |-------------|-------------|------|
 | Franciele Cristina Parreira Rodrigues | Maria Luiza Mendes Matos   | Tela de cadastro "PeTinder" |
-| | Camila Moreira Pessoa      | Tela "Fale Conosco"         |
+| Clóvis Lemos Tavares | Camila Moreira Pessoa      | Tela "Fale Conosco"         |
 | | Samuel Santos Maciel       | Tela "Alterar Senha"        |
 | | João Pedro Carmo Lopes     | Tela "Adote um pet"         |
 | | Nathan Araújo Godinho      | Tela Documentação do GitHub |
