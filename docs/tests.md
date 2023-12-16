@@ -273,8 +273,7 @@ Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundo
 
 | Usuário | Tela |
 |---------------|----------------------|
-| Maria Luiza Mendes Matos             ||
-| 2             |Você é uma pessoa que deseja adotar um cachorro adulto. Encontre no site um cachorro adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
+| Maria Luiza Mendes Matos | Tela de cadastro "Petinder"|               | 2             |Você é uma pessoa que deseja adotar um cachorro adulto. Encontre no site um cachorro adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
 | 3            |Você é uma pessoa que deseja encontrar um parceiro ao seu cachorro. Encontre no site um cachorro que combine com  seu pet e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
 | 4             |Você é uma pessoa que deseja doar gatinhos filhotes. Encontre no site a área de cadastro de doeção e veja detalhes do cadastro.|
 
