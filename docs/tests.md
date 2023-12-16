@@ -271,14 +271,11 @@ Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrep�
 
 Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
 
-| Usuário | Tela |
-|---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 5                    | 36.21 segundos                          |
-|  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
-
+| Nº do Cenário | Descrição do cenário |
+|---------------|----------------------|
+| 1             | Você é uma pessoa que deseja adotar um gato adulto. Encontre no site um gato adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação. |
+| 2             |Você é uma pessoa que deseja adotar um cachorro adulto. Encontre no site um cachorro adulto e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
+| 3            |Você é uma pessoa que deseja encontrar um parceiro ao seu cachorro. Encontre no site um cachorro que combine com  seu pet e veja detalhes de localização e contato do dono que fez o anuncio de doação.|
+| 4             |Você é uma pessoa que deseja doar gatinhos filhotes. Encontre no site a área de cadastro de doeção e veja detalhes do cadastro.|
 
 
